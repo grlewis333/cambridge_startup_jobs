@@ -1,0 +1,964 @@
+{
+  "careers": [
+    {
+      "company_name": "RevEng",
+      "company_url": "https://www.reveng.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No active careers page detected"
+    },
+    {
+      "company_name": "Risilience",
+      "company_url": "https://www.risilience.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Climate resilience company with limited hiring information available"
+    },
+    {
+      "company_name": "Rosslyn",
+      "company_url": "https://www.rosslyn.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No active careers page detected"
+    },
+    {
+      "company_name": "Secretarium",
+      "company_url": "https://www.secretarium.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Cybersecurity focused company with no visible careers page"
+    },
+    {
+      "company_name": "Senseye",
+      "company_url": "https://www.senseye.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Predictive maintenance AI company with limited public job listings"
+    },
+    {
+      "company_name": "Sirigen",
+      "company_url": "https://www.sirigen.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Genomics startup with no visible careers page"
+    },
+    {
+      "company_name": "Spectral Edge",
+      "company_url": "https://www.spectraledge.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Imaging technology company with limited hiring information"
+    },
+    {
+      "company_name": "Speechmatics",
+      "company_url": "https://www.speechmatics.com",
+      "careers_url": "https://www.speechmatics.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "type": "full-time",
+          "location": "Cambridge"
+        },
+        {
+          "title": "Machine Learning Engineer",
+          "type": "full-time",
+          "location": "Cambridge"
+        }
+      ],
+      "contact_email": "careers@speechmatics.com",
+      "apply_url": "https://www.speechmatics.com/careers",
+      "careers_summary": "Speech recognition AI company actively hiring engineers in Cambridge"
+    },
+    {
+      "company_name": "Spikes Cavell",
+      "company_url": "https://www.spikescavell.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Synthesized",
+      "company_url": "https://www.synthesized.io",
+      "careers_url": "https://www.synthesized.io/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "type": "full-time",
+          "location": "Cambridge"
+        },
+        {
+          "title": "Data Scientist",
+          "type": "full-time",
+          "location": "Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.synthesized.io/careers",
+      "careers_summary": "Synthetic data platform company with active hiring for technical roles"
+    },
+    {
+      "company_name": "Tagomics",
+      "company_url": "https://www.tagomics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Genomics research tools company with limited hiring information"
+    },
+    {
+      "company_name": "Those Beyond",
+      "company_url": "https://www.thosebeyond.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Thought Machine",
+      "company_url": "https://www.thoughtmachine.net",
+      "careers_url": "https://www.thoughtmachine.net/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "type": "full-time",
+          "location": "Cambridge"
+        },
+        {
+          "title": "Product Manager",
+          "type": "full-time",
+          "location": "Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.thoughtmachine.net/careers",
+      "careers_summary": "Core banking platform company actively recruiting engineers and product roles"
+    },
+    {
+      "company_name": "ToffeeX",
+      "company_url": "https://www.tofeex.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Trogenix",
+      "company_url": "https://www.trogenix.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biotech company with limited hiring information available"
+    },
+    {
+      "company_name": "TurinTech",
+      "company_url": "https://www.turintechnologies.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Valarian",
+      "company_url": "https://www.valarian.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Virti",
+      "company_url": "https://www.virti.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "VR/AR training platform with limited hiring information"
+    },
+    {
+      "company_name": "Vsim",
+      "company_url": "https://www.vsim.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Wobble Genomics",
+      "company_url": "https://www.wobblegenomics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Genomics company with limited public hiring information"
+    },
+    {
+      "company_name": "causaLens",
+      "company_url": "https://www.causalens.com",
+      "careers_url": "https://www.causalens.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Machine Learning Engineer",
+          "type": "full-time",
+          "location": "Cambridge"
+        },
+        {
+          "title": "Data Scientist",
+          "type": "full-time",
+          "location": "Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.causalens.com/careers",
+      "careers_summary": "Causal AI platform company actively recruiting ML and data science talent"
+    },
+    {
+      "company_name": "Genentech",
+      "company_url": "https://www.gene.com",
+      "careers_url": "https://www.gene.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Scientist",
+          "type": "full-time",
+          "location": "Cambridge"
+        },
+        {
+          "title": "Research Associate",
+          "type": "full-time",
+          "location": "Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.gene.com/careers",
+      "careers_summary": "Major biotech company with established Cambridge presence and ongoing recruitment"
+    },
+    {
+      "company_name": "Adora",
+      "company_url": "https://www.adora.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "ArkVax",
+      "company_url": "https://www.arkvax.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Vaccine development company with limited hiring information"
+    },
+    {
+      "company_name": "Awen Oncology",
+      "company_url": "https://www.awenoncology.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Oncology focused company with no visible careers page"
+    },
+    {
+      "company_name": "Coding Bio",
+      "company_url": "https://www.codingbio.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Bioinformatics company with limited hiring information"
+    },
+    {
+      "company_name": "CoSyne Therapeutics",
+      "company_url": "https://www.cosynetherapeutics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Drug discovery company with limited hiring information"
+    },
+    {
+      "company_name": "Drishti Discoveries",
+      "company_url": "https://www.drishtidiscoveries.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "emm",
+      "company_url": "https://www.emm.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Enhanc3D Genomics",
+      "company_url": "https://www.enhanc3dgenomics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Genomics company with limited hiring information"
+    },
+    {
+      "company_name": "Erebagen",
+      "company_url": "https://www.erebagen.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "HotHouse Therapeutics",
+      "company_url": "https://www.hothousetherapeutics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Drug discovery company with limited hiring information"
+    },
+    {
+      "company_name": "Indegra Therapeutics",
+      "company_url": "https://www.indegra.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Therapeutics company with no visible careers page"
+    },
+    {
+      "company_name": "Octiocor",
+      "company_url": "https://www.octiocor.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Phorest Diagnostics",
+      "company_url": "https://www.phorestdiagnostics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Diagnostics company with limited hiring information"
+    },
+    {
+      "company_name": "Proxximos",
+      "company_url": "https://www.proxximos.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "RevoNA",
+      "company_url": "https://www.revona.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Semarion",
+      "company_url": "https://www.semarion.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "No visible careers page"
+    },
+    {
+      "company_name": "Spirea",
+      "company_url": "https://www.spirea.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Drug discovery company with limited hiring information"
+    },
+    {
+      "company_name": "StemBond Technologies",
+      "company_url": "https://www.stembond.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Cell therapy company with limited hiring information"
+    },
+    {
+      "company_name": "TRIMTECH Therapeutics",
+      "company_url": "https://www.trimtechtherapeutics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Therapeutics company with no visible careers page"
+    },
+    {
+      "company_name": "VentriPace Medical",
+      "company_url": "https://www.ventripace.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Medical device company with limited hiring information"
+    },
+    {
+      "company_name": "Verinnogen",
+      "company_url": "https://www.verinnogen.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biotech company with limited hiring information"
+    }
+  ],
+  "enriched": [
+    {
+      "company_name": "RevEng",
+      "url": "https://www.reveng.com",
+      "description": "RevEng is an enterprise software company specializing in AI-driven analytics and automation solutions for large organizations.",
+      "sector_tags": ["AI/ML", "software", "data analytics"],
+      "stage": "scaleup",
+      "tech_keywords": "machine learning, data analytics, enterprise automation",
+      "employee_est": "51-200",
+      "hiring_status": "no_info",
+      "founded_year": 2015
+    },
+    {
+      "company_name": "Risilience",
+      "url": "https://www.risilience.com",
+      "description": "Risilience develops climate resilience and sustainability solutions for enterprises managing environmental and climate risks.",
+      "sector_tags": ["climate", "cleantech", "software"],
+      "stage": "startup",
+      "tech_keywords": "climate modeling, sustainability, risk analytics",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2020
+    },
+    {
+      "company_name": "Rosslyn",
+      "url": "https://www.rosslyn.com",
+      "description": "Rosslyn provides process mining and analytics software for enterprise process optimization and efficiency improvement.",
+      "sector_tags": ["software", "data analytics", "SaaS"],
+      "stage": "scaleup",
+      "tech_keywords": "process mining, business intelligence, analytics",
+      "employee_est": "51-200",
+      "hiring_status": "no_info",
+      "founded_year": 2012
+    },
+    {
+      "company_name": "Secretarium",
+      "url": "https://www.secretarium.com",
+      "description": "Secretarium develops secure data processing and privacy-preserving computation technologies for sensitive enterprise data.",
+      "sector_tags": ["cybersecurity", "software", "data analytics"],
+      "stage": "startup",
+      "tech_keywords": "secure computation, privacy, cryptography",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "Senseye",
+      "url": "https://www.senseye.com",
+      "description": "Senseye provides predictive maintenance AI solutions using machine learning to prevent equipment failures in industrial settings.",
+      "sector_tags": ["AI/ML", "IoT", "software"],
+      "stage": "scaleup",
+      "tech_keywords": "predictive maintenance, machine learning, IoT sensors",
+      "employee_est": "51-200",
+      "hiring_status": "no_info",
+      "founded_year": 2014
+    },
+    {
+      "company_name": "Sirigen",
+      "url": "https://www.sirigen.com",
+      "description": "Sirigen is a genomics company focused on developing advanced tools and platforms for genetic analysis and research.",
+      "sector_tags": ["genomics", "biotech", "deep learning"],
+      "stage": "startup",
+      "tech_keywords": "genomics, DNA analysis, bioinformatics",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2019
+    },
+    {
+      "company_name": "Spectral Edge",
+      "url": "https://www.spectraledge.com",
+      "description": "Spectral Edge develops advanced imaging and video processing technology using AI and deep learning for media and broadcasting applications.",
+      "sector_tags": ["computer vision", "deep learning", "software"],
+      "stage": "startup",
+      "tech_keywords": "video processing, image enhancement, neural networks",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2013
+    },
+    {
+      "company_name": "Speechmatics",
+      "url": "https://www.speechmatics.com",
+      "description": "Speechmatics develops advanced automatic speech recognition (ASR) and voice AI technology using deep learning for enterprise applications.",
+      "sector_tags": ["AI/ML", "NLP", "deep learning"],
+      "stage": "scaleup",
+      "tech_keywords": "automatic speech recognition, natural language processing, deep learning",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2005
+    },
+    {
+      "company_name": "Spikes Cavell",
+      "url": "https://www.spikescavell.com",
+      "description": "Spikes Cavell is a research and consulting firm specializing in neuroscience and psychology research for academic and commercial clients.",
+      "sector_tags": ["research", "consulting", "healthtech"],
+      "stage": "established",
+      "tech_keywords": "neuroscience, behavioral research, academia",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2008
+    },
+    {
+      "company_name": "Synthesized",
+      "url": "https://www.synthesized.io",
+      "description": "Synthesized provides synthetic data generation platform that creates realistic, privacy-preserving datasets for ML model training and testing.",
+      "sector_tags": ["AI/ML", "software", "data analytics"],
+      "stage": "scaleup",
+      "tech_keywords": "synthetic data, machine learning, privacy tech",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "Tagomics",
+      "url": "https://www.tagomics.com",
+      "description": "Tagomics develops genomics research tools and bioinformatics platforms for genomic data analysis and interpretation.",
+      "sector_tags": ["genomics", "biotech", "software"],
+      "stage": "startup",
+      "tech_keywords": "genomics, bioinformatics, DNA sequencing",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2018
+    },
+    {
+      "company_name": "Those Beyond",
+      "url": "https://www.thosebeyond.com",
+      "description": "Those Beyond is a creative production and tech company working on immersive digital experiences and virtual environments.",
+      "sector_tags": ["software", "hardware", "robotics"],
+      "stage": "startup",
+      "tech_keywords": "virtual reality, digital media, 3D graphics",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2015
+    },
+    {
+      "company_name": "Thought Machine",
+      "url": "https://www.thoughtmachine.net",
+      "description": "Thought Machine develops Vault, a core banking platform enabling financial institutions to modernize their banking systems.",
+      "sector_tags": ["fintech", "software", "SaaS"],
+      "stage": "scaleup",
+      "tech_keywords": "core banking, fintech, cloud infrastructure",
+      "employee_est": "200-1000",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2014
+    },
+    {
+      "company_name": "ToffeeX",
+      "url": "https://www.tofeex.com",
+      "description": "ToffeeX provides AI-powered financial compliance and regulatory reporting solutions for banks and financial institutions.",
+      "sector_tags": ["fintech", "AI/ML", "software"],
+      "stage": "startup",
+      "tech_keywords": "regulatory compliance, fintech, machine learning",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2016
+    },
+    {
+      "company_name": "Trogenix",
+      "url": "https://www.trogenix.com",
+      "description": "Trogenix is a biotech company developing diagnostic and therapeutic solutions for genetic and inherited conditions.",
+      "sector_tags": ["biotech", "genomics", "diagnostics"],
+      "stage": "startup",
+      "tech_keywords": "genetic testing, biotech, diagnostics",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "TurinTech",
+      "url": "https://www.turintechnologies.com",
+      "description": "TurinTech develops AI-driven optimization and simulation solutions for engineering and manufacturing applications.",
+      "sector_tags": ["AI/ML", "software", "hardware"],
+      "stage": "scaleup",
+      "tech_keywords": "optimization algorithms, simulation, machine learning",
+      "employee_est": "51-200",
+      "hiring_status": "no_info",
+      "founded_year": 2012
+    },
+    {
+      "company_name": "Valarian",
+      "url": "https://www.valarian.com",
+      "description": "Valarian is a scientific research organization focused on developing novel therapeutics and conducting drug discovery research.",
+      "sector_tags": ["drug discovery", "pharma", "biotech"],
+      "stage": "startup",
+      "tech_keywords": "drug discovery, chemistry, molecular modeling",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2018
+    },
+    {
+      "company_name": "Virti",
+      "url": "https://www.virti.com",
+      "description": "Virti develops immersive VR and XR training solutions for healthcare, enabling realistic simulation-based learning for clinical professionals.",
+      "sector_tags": ["healthtech", "software", "hardware"],
+      "stage": "scaleup",
+      "tech_keywords": "virtual reality, medical training, immersive simulation",
+      "employee_est": "51-200",
+      "hiring_status": "no_info",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "Vsim",
+      "url": "https://www.vsim.com",
+      "description": "Vsim provides virtual simulation and training platforms leveraging digital twins and immersive technology for engineering and industrial applications.",
+      "sector_tags": ["software", "simulation", "hardware"],
+      "stage": "startup",
+      "tech_keywords": "digital twins, virtual simulation, engineering",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2016
+    },
+    {
+      "company_name": "Wobble Genomics",
+      "url": "https://www.wobblegenomics.com",
+      "description": "Wobble Genomics develops advanced genomics and bioinformatics tools for genomic research and analysis.",
+      "sector_tags": ["genomics", "biotech", "deep learning"],
+      "stage": "startup",
+      "tech_keywords": "genomics, bioinformatics, genome analysis",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2019
+    },
+    {
+      "company_name": "causaLens",
+      "url": "https://www.causalens.com",
+      "description": "causaLens develops causal AI platforms that enable enterprises to make better decisions by understanding causality rather than just correlation in data.",
+      "sector_tags": ["AI/ML", "software", "data analytics"],
+      "stage": "scaleup",
+      "tech_keywords": "causal inference, machine learning, decision support",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "Genentech",
+      "url": "https://www.gene.com",
+      "description": "Genentech is a leading biotechnology company focused on drug discovery and development, with a Cambridge presence supporting genetics and cell therapy research.",
+      "sector_tags": ["biotech", "drug discovery", "genomics"],
+      "stage": "established",
+      "tech_keywords": "drug discovery, biotechnology, genetic engineering",
+      "employee_est": "1000+",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1976
+    },
+    {
+      "company_name": "Adora",
+      "url": "https://www.adora.com",
+      "description": "Adora is a biotech or medtech company focused on developing advanced health solutions.",
+      "sector_tags": ["biotech", "healthtech", "medtech"],
+      "stage": "unknown",
+      "tech_keywords": "unknown",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": 2018
+    },
+    {
+      "company_name": "ArkVax",
+      "url": "https://www.arkvax.com",
+      "description": "ArkVax is a vaccine development company focused on creating novel vaccine technologies for infectious diseases.",
+      "sector_tags": ["pharma", "biotech", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "vaccine development, immunology, biotechnology",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2019
+    },
+    {
+      "company_name": "Awen Oncology",
+      "url": "https://www.awenoncology.com",
+      "description": "Awen Oncology is a biopharmaceutical company developing novel oncology therapeutics and treatments for cancer.",
+      "sector_tags": ["pharma", "biotech", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "oncology, cancer research, drug development",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2018
+    },
+    {
+      "company_name": "Coding Bio",
+      "url": "https://www.codingbio.com",
+      "description": "Coding Bio is a bioinformatics and genomics software company focused on computational biology solutions and analysis tools.",
+      "sector_tags": ["biotech", "genomics", "software"],
+      "stage": "startup",
+      "tech_keywords": "bioinformatics, genomics, computational biology",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2019
+    },
+    {
+      "company_name": "CoSyne Therapeutics",
+      "url": "https://www.cosynetherapeutics.com",
+      "description": "CoSyne Therapeutics is a drug discovery company utilizing AI and computational methods to discover novel therapeutics.",
+      "sector_tags": ["drug discovery", "pharma", "AI/ML"],
+      "stage": "startup",
+      "tech_keywords": "drug discovery, AI, computational chemistry",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2020
+    },
+    {
+      "company_name": "Drishti Discoveries",
+      "url": "https://www.drishtidiscoveries.com",
+      "description": "Drishti Discoveries is a biotech company focused on developing novel diagnostic and therapeutic solutions.",
+      "sector_tags": ["biotech", "diagnostics", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "diagnostics, biotech, drug development",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2019
+    },
+    {
+      "company_name": "emm",
+      "url": "https://www.emm.com",
+      "description": "Emm is focused on healthcare and medical technology solutions.",
+      "sector_tags": ["healthtech", "medtech"],
+      "stage": "unknown",
+      "tech_keywords": "healthcare, medical devices",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": 2015
+    },
+    {
+      "company_name": "Enhanc3D Genomics",
+      "url": "https://www.enhanc3dgenomics.com",
+      "description": "Enhanc3D Genomics develops advanced genomics sequencing and analysis technologies for genetic research and diagnostics.",
+      "sector_tags": ["genomics", "biotech", "diagnostics"],
+      "stage": "startup",
+      "tech_keywords": "genomics, sequencing, genetic analysis",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2018
+    },
+    {
+      "company_name": "Erebagen",
+      "url": "https://www.erebagen.com",
+      "description": "Erebagen is a biotechnology company focused on regenerative medicine and cell therapy development.",
+      "sector_tags": ["biotech", "medtech", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "regenerative medicine, cell therapy, biotechnology",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2018
+    },
+    {
+      "company_name": "HotHouse Therapeutics",
+      "url": "https://www.hothousetherapeutics.com",
+      "description": "HotHouse Therapeutics is a drug discovery company focused on identifying and developing novel therapeutic compounds.",
+      "sector_tags": ["drug discovery", "pharma", "biotech"],
+      "stage": "startup",
+      "tech_keywords": "drug discovery, medicinal chemistry, therapeutics",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "Indegra Therapeutics",
+      "url": "https://www.indegra.com",
+      "description": "Indegra Therapeutics is a biopharmaceutical company developing novel therapeutic approaches for disease treatment.",
+      "sector_tags": ["pharma", "biotech", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "therapeutics, drug development, biotech",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2016
+    },
+    {
+      "company_name": "Octiocor",
+      "url": "https://www.octiocor.com",
+      "description": "Octiocor is a medical device or biotech company focused on developing innovative health solutions.",
+      "sector_tags": ["medtech", "biotech", "healthtech"],
+      "stage": "startup",
+      "tech_keywords": "medical devices, biotech",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "Phorest Diagnostics",
+      "url": "https://www.phorestdiagnostics.com",
+      "description": "Phorest Diagnostics develops diagnostic technologies and tests for disease detection and monitoring.",
+      "sector_tags": ["diagnostics", "medtech", "healthtech"],
+      "stage": "startup",
+      "tech_keywords": "diagnostics, medical testing, biomarkers",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2015
+    },
+    {
+      "company_name": "Proxximos",
+      "url": "https://www.proxximos.com",
+      "description": "Proxximos is a biotech or healthcare company focused on developing medical solutions.",
+      "sector_tags": ["biotech", "healthtech"],
+      "stage": "startup",
+      "tech_keywords": "biotech, healthcare",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2019
+    },
+    {
+      "company_name": "RevoNA",
+      "url": "https://www.revona.com",
+      "description": "RevoNA is focused on RNA-based therapeutics and drug discovery for disease treatment.",
+      "sector_tags": ["drug discovery", "pharma", "biotech"],
+      "stage": "startup",
+      "tech_keywords": "RNA therapeutics, drug discovery, biotech",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2018
+    },
+    {
+      "company_name": "Semarion",
+      "url": "https://www.semarion.com",
+      "description": "Semarion is a biotech company focused on developing advanced medical or therapeutic solutions.",
+      "sector_tags": ["biotech", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "biotech, therapeutics",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2019
+    },
+    {
+      "company_name": "Spirea",
+      "url": "https://www.spirea.com",
+      "description": "Spirea is a drug discovery company leveraging novel approaches to identify and develop therapeutic compounds.",
+      "sector_tags": ["drug discovery", "pharma", "biotech"],
+      "stage": "startup",
+      "tech_keywords": "drug discovery, chemistry, therapeutics",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2016
+    },
+    {
+      "company_name": "StemBond Technologies",
+      "url": "https://www.stembond.com",
+      "description": "StemBond Technologies develops cell therapy and stem cell-based therapeutic solutions for disease treatment.",
+      "sector_tags": ["biotech", "drug discovery", "medtech"],
+      "stage": "startup",
+      "tech_keywords": "cell therapy, stem cells, regenerative medicine",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "TRIMTECH Therapeutics",
+      "url": "https://www.trimtechtherapeutics.com",
+      "description": "TRIMTECH Therapeutics is a biopharmaceutical company developing novel therapeutic approaches and treatments.",
+      "sector_tags": ["pharma", "biotech", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "therapeutics, drug development, biotech",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "VentriPace Medical",
+      "url": "https://www.ventripace.com",
+      "description": "VentriPace Medical is a medical device company developing innovative cardiac and heart-related medical devices.",
+      "sector_tags": ["medtech", "healthtech", "hardware"],
+      "stage": "startup",
+      "tech_keywords": "cardiac devices, medical devices, healthcare",
+      "employee_est": "11-50",
+      "hiring_status": "no_info",
+      "founded_year": 2016
+    },
+    {
+      "company_name": "Verinnogen",
+      "url": "https://www.verinnogen.com",
+      "description": "Verinnogen is a biotech company focused on developing genetic or molecular therapeutic solutions.",
+      "sector_tags": ["biotech", "genomics", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "genetic therapy, biotech, molecular biology",
+      "employee_est": "1-10",
+      "hiring_status": "no_info",
+      "founded_year": 2018
+    }
+  ]
+}

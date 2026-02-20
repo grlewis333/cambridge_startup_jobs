@@ -1,0 +1,701 @@
+company_name,url,source,hub_name,hub_type,company_number,postcode,ch_status,sic_code,company_size,incorporated,last_accounts,address,ch_validated,ch_match_score,ch_match_name,ch_concern,has_url
+XO1,https://www.xo1.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+BlueGnome,https://www.bluegnome.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Cambridge CMOS Sensors,https://www.cmossensors.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Centessa,https://www.centessa.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Gyroscope,https://www.gyroscopetx.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Solexa,https://www.solexa.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Quethera,https://www.quethera.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+VocalIQ,https://www.vocaliq.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+8power,https://www.8power.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Accelerated Materials,https://www.acceleratedmaterials.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+AEMS,https://www.aems.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Aetosense,https://www.aetosense.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+AllFocal Optics,https://www.allfocaloptics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Aqdot,https://www.aqdot.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+BKwai,https://www.bkwai.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Bond180,https://www.bond180.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Cambridge Innovation System,https://www.cis.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Cambridge Touch Technologies,https://www.cambridgetouchtech.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Enval,https://www.enval.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Focal Point Positioning,https://www.focalpointpositioning.com,hub,Cambridge Enterprise,Academic Commercialization,9589495,CB4 3NP,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,13/05/2015,31/12/2024,"1-3 CHESTERTON MILL, FRENCHS ROAD, CAMBRIDGE",True,1.0,FOCAL POINT POSITIONING LTD.,False,True
+IKVA,https://www.ikva.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Immaterial,https://www.immaterial.com,hub,Cambridge Enterprise,Academic Commercialization,9829727,CB4 0FW,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,19/10/2015,30/04/2025,"25 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,IMMATERIAL LTD,False,True
+Intellegens,https://www.intellegens.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+JoltSynSor,https://www.joltsynsor.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Matta,https://www.matta.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+MedicBank Healthcare,https://www.medicbank.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Myriofoam,https://www.myriofoam.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Nanomation,https://www.nanomation.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Nu Quantum,https://www.nuquantum.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Paragraf,https://www.paragraf.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+PervasID,https://www.pervasid.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Pinepeak,https://www.pinepeak.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Planetary Processing,https://www.planetaryprocessing.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Poro Technologies,https://www.porotech.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+ProSpectral,https://www.prospectral.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+RegGenome,https://www.reggenome.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Riverlane,https://www.riverlane.com,hub,Cambridge Enterprise,Academic Commercialization,10260255,CB2 3BZ,Active,62090 - Other information technology service activities,GROUP,04/07/2016,31/12/2024,"1ST FLOOR, ST. ANDREWS HOUSE, 59 ST. ANDREWS STREET, CAMBRIDGE",True,1.0,RIVERLANE LTD,False,True
+RoboK,https://www.robok.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Signaloid,https://www.signaloid.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Sorex Sensors,https://www.sorexsensors.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Sqwish,https://www.sqwish.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Super-Sharp Space Systems,https://www.supersharp.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Tenyks,https://www.tenyks.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Trismik,https://www.trismik.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Wave Photonics,https://www.wavephotonics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Zomp,https://www.zomp.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+52 North,https://www.52north.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Abselion,https://www.abselion.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Axiom Therapeutics,https://www.axiomtherapeutics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Bilitech,https://www.bilitech.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Biomodal,https://www.biomodal.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Biophonics,https://www.biophonics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+BIOS Health,https://www.bioshealth.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+BioTryp Therapeutics,https://www.biotryp.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Bit Bio,https://www.bitbio.com,hub,Cambridge Enterprise,Academic Commercialization,10466798,CB3 0QH,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,07/11/2016,31/12/2024,"CAMBRIDGE HOUSE CAMBORO BUSINESS PARK, GIRTON, CAMBRIDGE",True,1.0,BIT BIO LIMITED,False,True
+Cambiotics,https://www.cambiotics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Cambridge Adaptive Testing,https://www.cambridgeadaptive.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Cambridge Vision Technology,https://www.cambridgevision.com,hub,Cambridge Enterprise,Academic Commercialization,12050106,CB25 9AU,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,13/06/2019,30/06/2024,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,0.5,CAMBRIDGE AGILE TECHNOLOGY LTD,False,True
+CamBris Cardiac,https://www.cambriscardiac.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+CamGene Therapeutics,https://www.camgene.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+CardiaTec Biosciences,https://www.cardiatec.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Carrick Therapeutics,https://www.carricktherapeutics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+CellCentric,https://www.cellcentric.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Cellestial Health,https://www.cellestialhealth.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+ConcR,https://www.concr.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+DefiniGEN,https://www.definigen.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+DIOSynVax,https://www.diosynvax.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Electra Bio,https://www.electrabio.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Evoralis,https://www.evoralis.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Function Rx,https://www.functionrx.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Gastrobody Therapeutics,https://www.gastrobody.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Healthera,https://www.healthera.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Immutrin,https://www.immutrin.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Inotec AMD,https://www.inotecamd.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Kalium Health,https://www.kaliumhealth.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Mecha Health,https://www.mechahealth.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+NeoPhore,https://www.neophore.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+NoBACZ Healthcare,https://www.nobacz.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Octiocor,https://www.octiocor.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Orbit,https://www.orbit.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Pharmenable,https://www.pharmenable.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+PneumaCare,https://www.pneumacare.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Polypharmakos,https://www.polypharmakos.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Pretzel Therapeutics,https://www.pretzeltherapeutics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Prodromic,https://www.prodromic.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+PsyOmics,https://www.psyomics.com,hub,Cambridge Enterprise,Academic Commercialization,9470381,CB25 9AU,Active,72110 - Research and experimental development on biotechnology,SMALL,04/03/2015,31/12/2024,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,1.0,PSYOMICS LTD,False,True
+Qkine,https://www.qkine.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Sano Genetics,https://www.sanogenetics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+SDS Therapeutics,https://www.sdstherapeutics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Semarion,https://www.semarion.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Sentinel Oncology,https://www.sentineloncology.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Sphere Bio,https://www.spherelife.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Spirea,https://www.spirea.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+StemBond Technologies,https://www.stembond.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Storm Therapeutics,https://www.stormtherapeutics.com,hub,Cambridge Enterprise,Academic Commercialization,9553473,CB22 3AT,Active,72110 - Research and experimental development on biotechnology,GROUP,21/04/2015,31/12/2024,"MONETA BUILDING, BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,1.0,STORM THERAPEUTICS LIMITED,False,True
+T-Therapeutics,https://www.ttherapeutics.com,hub,Cambridge Enterprise,Academic Commercialization,14097070,CB21 6DP,Active,72110 - Research and experimental development on biotechnology,GROUP,10/05/2022,31/12/2024,"ONE GRANTA, GRANTA PARK, GREAT ABINGTON",True,1.0,T-THERAPEUTICS LIMITED,False,True
+Transition Bio,https://www.transitionbio.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+TRIMTECH Therapeutics,https://www.trimtech.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Trutina Therapeutics,https://www.trutina.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+UpFront Diagnostics,https://www.upfrontdiagnostics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Vector Bioscience,https://www.vectorbioscience.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Verinnogen,https://www.verinnogen.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+William Oak Diagnostics,https://www.williamoak.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Xterna,https://www.xterna.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Zetta Genomics,https://www.zettagenomics.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Aspuna Group,https://www.aspuna.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Cosysense,https://www.cosysense.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Kalamna Global,https://www.kalamna.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Majicom,https://www.majicom.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Obliquity Group,https://www.obliquitygroup.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+WaterScope,https://www.waterscope.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Where You At,https://www.whereyouat.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Barocal,https://www.barocal.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+BravelyCultured,https://www.bravelycultured.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Cambridge GaN Devices,https://www.cambridgegandevices.com,hub,Cambridge Enterprise,Academic Commercialization,10430656,CB4 0DS,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,17/10/2016,31/12/2024,"JEFFREYS BUILDING, SUITE 8 ST JOHNS INNOVATION PARK, COWLEY ROAD, CAMBRIDGE",True,1.0,CAMBRIDGE GAN DEVICES LIMITED,False,True
+Cambridge Photon Technology (CPT),https://www.cambridgephotontech.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Carbon Re,https://www.carbonre.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Colorifix,https://www.colorifix.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+DeepForm,https://www.deepform.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Echion Technologies,https://www.echiontech.com,hub,Cambridge Enterprise,Academic Commercialization,10680704,CB22 3FG,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,21/03/2017,31/03/2025,"UNIT 9-11 CAMBRIDGE SOUTH, WEST WAY, SAWSTON",True,1.0,ECHION TECHNOLOGIES LTD,False,True
+illumion,https://www.illumion.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Matnex,https://www.matnex.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Molyon,https://www.molyon.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Neela Biotech,https://www.neelabiotech.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Neutreeno,https://www.neutreeno.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Nyobolt,https://www.nyobolt.com,hub,Cambridge Enterprise,Academic Commercialization,11863045,CB24 9NG,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,05/03/2019,31/12/2024,"UNIT 2 EVOLUTION BUSINESS PARK MILTON ROAD, IMPINGTON, CAMBRIDGE",True,1.0,NYOBOLT LIMITED,False,True
+Protonera,https://www.protonera.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Reclinker,https://www.reclinker.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Remedium Energy,https://www.remediumenergy.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Seprify AG,https://www.seprify.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Sparxell,https://www.sparxell.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Voltquant,https://www.voltquant.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+Xampla,https://www.xampla.com,hub,Cambridge Enterprise,Academic Commercialization,11637116,CB4 0FW,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,23/10/2018,31/12/2024,"BIO-INNOVATION CENTRE, 25 CAMBRIDGE SCIENCE PARK ROAD, CAMBRIDGE",True,1.0,XAMPLA LTD,False,True
+xWATTS,https://www.xwatts.com,hub,Cambridge Enterprise,Academic Commercialization,,,,,,,,,False,,,False,True
+AccelerComm,https://www.accelercomm.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+AiM Medical Robotics,https://www.aimmedicalrobotics.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Aibuild,https://www.aibuild.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Alpine Eagle,https://www.alpineeagle.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Apperio,https://www.apperio.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Audio Analytic,https://www.audioanalytic.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+BMLL,https://www.bmlltech.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Baseimmune,https://www.baseimmune.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Biobeats,https://www.biobeats.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Bloomsbury AI,https://www.bloomsbury.ai,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Boltzbit,https://www.boltzbit.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Cambridge GaN Devices,https://www.camd.co.uk,hub,IQ Capital,Deep Tech VC,10430656,CB4 0DS,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,17/10/2016,31/12/2024,"JEFFREYS BUILDING, SUITE 8 ST JOHNS INNOVATION PARK, COWLEY ROAD, CAMBRIDGE",True,1.0,CAMBRIDGE GAN DEVICES LIMITED,False,True
+Charge Point Services,https://www.chargepointservices.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Closed Loop Medicine,https://www.closedloopmedicine.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+CybSafe,https://www.cybsafe.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+CyberSmart,https://www.cybersmart.co.uk,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+DreamFold,https://www.dreamfold.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+FNA,https://www.fnatech.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Flink,https://www.flink.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+FocalPoint,https://www.focalpointgnss.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Foundries.io,https://www.foundries.io,hub,IQ Capital,Deep Tech VC,10899991,CB4 0WZ,Active,58290 - Other software publishing,FULL,04/08/2017,30/09/2024,"CHURCHILL HOUSE CAMBRIDGE BUSINESS PARK, COWLEY ROAD, CAMBRIDGE",True,1.0,FOUNDRIES.IO LIMITED,False,True
+Grapeshot,https://www.grapeshot.co.uk,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+IONATE,https://www.ionate.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Imandra,https://www.imandra.ai,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Imperagen,https://www.imperagen.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+MQube,https://www.mqube.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Mindgard,https://www.mindgard.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Myrtle,https://www.myrtle.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Mytos,https://www.mytos.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+NanoSyrinx,https://www.nanosyrinx.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Neul,https://www.neul.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Neurovalens,https://www.neurovalens.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+OSS,https://www.oss.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Optellum,https://www.optellum.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Opteran,https://www.opteran.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Pangaea,https://www.pangaea.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Phonetic Arts,https://www.phoneticarts.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Pictura Bio,https://www.picturabio.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Porotech,https://www.porotech.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Power Challenge,https://www.powerchallenge.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+QuadSAT,https://www.quadsat.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+QuantumDiamonds,https://www.quantumdiamonds.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+RevEng,https://www.reveng.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Risilience,https://www.risilience.com,hub,IQ Capital,Deep Tech VC,9921767,CB1 2JH,Active,62012 - Business and domestic software development,GROUP,18/12/2015,31/12/2024,"50-60 STATION ROAD, , CAMBRIDGE",True,1.0,RISILIENCE LIMITED,False,True
+Rosslyn,https://www.rosslyn.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Secretarium,https://www.secretarium.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Senseye,https://www.senseye.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Sirigen,https://www.sirigen.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Spectral Edge,https://www.spectraledge.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Speechmatics,https://www.speechmatics.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Spikes Cavell,https://www.spikescavell.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Synthesized,https://www.synthesized.io,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Tagomics,https://www.tagomics.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Those Beyond,https://www.thosebeyond.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Thought Machine,https://www.thoughtmachine.net,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+ToffeeX,https://www.tofeex.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Trogenix,https://www.trogenix.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+TurinTech,https://www.turintechnologies.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Valarian,https://www.valarian.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Virti,https://www.virti.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Vsim,https://www.vsim.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Wobble Genomics,https://www.wobblegenomics.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+causaLens,https://www.causalens.com,hub,IQ Capital,Deep Tech VC,,,,,,,,,False,,,False,True
+Genentech,https://www.gene.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Adora,https://www.adora.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+ArkVax,https://www.arkvax.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Awen Oncology,https://www.awenoncology.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Coding Bio,https://www.codingbio.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+CoSyne Therapeutics,https://www.cosynetherapeutics.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Drishti Discoveries,https://www.drishtidiscoveries.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+emm,https://www.emm.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Enhanc3D Genomics,https://www.enhanc3dgenomics.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Erebagen,https://www.erebagen.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+HotHouse Therapeutics,https://www.hothousetherapeutics.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Indegra Therapeutics,https://www.indegra.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Octiocor,https://www.octiocor.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Phorest Diagnostics,https://www.phorestdiagnostics.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Proxximos,https://www.proxximos.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+RevoNA,https://www.revona.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Semarion,https://www.semarion.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Spirea,https://www.spirea.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+StemBond Technologies,https://www.stembond.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Tagomics,https://www.tagomics.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+TRIMTECH Therapeutics,https://www.trimtechtherapeutics.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+VentriPace Medical,https://www.ventripace.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+Verinnogen,https://www.verinnogen.com/,hub,Cambridge Innovation Capital,Venture Capital,,,,,,,,,False,,,False,True
+5 Alarm Bio,https://www.5alarmbio.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+AbOliGo,https://www.aboligo.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Abzena,https://www.abzena.com,hub,Babraham Research Campus,Biotech/Life Sciences,4295642,CB22 3AT,Active,72110 - Research and experimental development on biotechnology,AUDIT EXEMPTION SUBSIDIARY,28/09/2001,31/12/2024,"BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,1.0,ABZENA (UK) LIMITED,False,True
+Appraiseye,https://www.appraiseye.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Artios Pharma,https://www.artiospharma.com,hub,Babraham Research Campus,Biotech/Life Sciences,9931309,CB22 3AT,Active,72110 - Research and experimental development on biotechnology,GROUP,29/12/2015,31/12/2024,"BABRAHAM HALL, BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,1.0,ARTIOS PHARMA LIMITED,False,True
+Athernal Bio,https://www.athernal.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Axol Bioscience,https://www.axolbio.com,hub,Babraham Research Campus,Biotech/Life Sciences,8340031,CB22 3AT,Active,72110 - Research and experimental development on biotechnology,SMALL,21/12/2012,31/12/2024,"MEDITRINA BUILDING BABRAHAM BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,1.0,AXOL BIOSCIENCE LTD,False,True
+BenevolentAI,https://www.benevolent.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Biosceptre International,https://www.biosceptre.com,hub,Babraham Research Campus,Biotech/Life Sciences,8365743,CB1 2LA,Active,72110 - Research and experimental development on biotechnology,SMALL,18/01/2013,30/06/2025,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,1.0,BIOSCEPTRE (UK) LIMITED,False,True
+bit.bio,https://www.bit.bio,hub,Babraham Research Campus,Biotech/Life Sciences,10466798,CB3 0QH,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,07/11/2016,31/12/2024,"CAMBRIDGE HOUSE CAMBORO BUSINESS PARK, GIRTON, CAMBRIDGE",True,1.0,BIT BIO LIMITED,False,True
+Cambridge Protein Arrays,https://www.cambridgeproteinarrays.co.uk,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Cambridge Protein Works,https://www.cambridgeproteinworks.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+CellCodex,https://www.cellcodex.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Cell Guidance Systems,https://www.cellgs.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Charm Therapeutics,https://www.charmtherapeutics.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Dysplasia Diagnostics Limited,https://www.dysplasia.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Empyrean Therapeutics,https://www.empyreantherapeutics.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Epitopea,https://www.epitopea.com,hub,Babraham Research Campus,Biotech/Life Sciences,13354764,CB1 2LA,Active,72110 - Research and experimental development on biotechnology,SMALL,23/04/2021,30/04/2025,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,1.0,EPITOPEA LIMITED,False,True
+ExpressionEdits,https://www.expressionedits.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Forth Therapeutics,https://www.forthtx.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+F-star Therapeutics,https://www.f-star.com,hub,Babraham Research Campus,Biotech/Life Sciences,11532458,CB2 1PH,Active,72110 - Research and experimental development on biotechnology,FULL,22/08/2018,31/12/2024,"BOTANIC HOUSE, 100 HILLS ROAD, CAMBRIDGE",True,1.0,F-STAR THERAPEUTICS LIMITED,False,True
+Gen2 Neuroscience,https://www.gen2neuroscience.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Harness Therapeutics,https://www.harnesstherapeutics.com,hub,Babraham Research Campus,Biotech/Life Sciences,11532498,CB22 3AT,Active,72110 - Research and experimental development on biotechnology,SMALL,22/08/2018,31/12/2024,"MINERVA BUILDING (B250), BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,1.0,HARNESS THERAPEUTICS LIMITED,False,True
+Inivata,https://www.inivata.com,hub,Babraham Research Campus,Biotech/Life Sciences,9144647,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,FULL,23/07/2014,31/12/2024,"THE GLENN BERGE BUILDING, BABRAHAM, CAMBRIDGE",True,1.0,INIVATA LIMITED,False,True
+Insmed,https://www.insmed.com,hub,Babraham Research Campus,Biotech/Life Sciences,10934416,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,25/08/2017,31/12/2024,"B960 BUILDING, BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,0.5,INSMED INNOVATION UK LTD,False,True
+Kymab,https://www.kymab.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+LinkGevity,https://www.linkgevity.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+LoQus23 Therapeutics,https://www.loqus23.com,hub,Babraham Research Campus,Biotech/Life Sciences,11914774,CB21 6GP,Active,72110 - Research and experimental development on biotechnology,SMALL,29/03/2019,31/03/2025,"SUITE 7 MCCLINTOCK BUILDING, GRANTA PARK, GREAT ABINGTON",True,1.0,LOQUS23 THERAPEUTICS LIMITED,False,True
+Methuselah Health,https://www.methuselahhealth.com,hub,Babraham Research Campus,Biotech/Life Sciences,9209003,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,09/09/2014,30/11/2024,"C/O THE CAMBRIDGE PARTNERSHIP LTD, THE DOROTHY HODGKIN BUILDING, BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,1.0,METHUSELAH HEALTH UK LIMITED,False,True
+Mission Therapeutics,https://www.missiontherapeutics.com,hub,Babraham Research Campus,Biotech/Life Sciences,7630933,CB24 9ZR,Active,72110 - Research and experimental development on biotechnology,FULL,11/05/2011,31/12/2024,"C/O ENSORS CHARTERED ACCOUNTANTS VICTORY HOUSE, VISION PARK, CHIVERS WAY, CAMBRIDGE",True,1.0,MISSION THERAPEUTICS LIMITED,False,True
+Mosaic Therapeutics,https://www.mosaictherapeutics.com,hub,Babraham Research Campus,Biotech/Life Sciences,12780154,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,30/07/2020,31/12/2024,"BUILDING 960, BABRAHAM RESEARCH CAMPUS, BABRAHAM",True,1.0,MOSAIC THERAPEUTICS LIMITED,False,True
+New Path Molecular,https://www.newpathmolecular.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Nikon,https://www.nikon.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+One Nucleus,https://www.one-nucleus.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Orion Pharma,https://www.orionpharma.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Ovartix,https://www.ovartix.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Petmedix,https://www.petmedix.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+PlaqueTec,https://www.plaquetec.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Promatix,https://www.promatix.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Proteotype Diagnostics,https://www.proteotypediagnostics.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Phoremost,https://www.phoremost.com,hub,Babraham Research Campus,Biotech/Life Sciences,8969798,CB22 3FT,Active,72110 - Research and experimental development on biotechnology,FULL,01/04/2014,31/03/2025,"UNIT 7 THE WORKS, UNITY CAMPUS, PAMPISFORD",True,1.0,PHOREMOST LIMITED,False,True
+RxCelerate,https://www.rxcelerate.com,hub,Babraham Research Campus,Biotech/Life Sciences,8284658,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,GROUP,07/11/2012,30/11/2024,"THE DOROTHY HODGKIN BUILDING BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,1.0,RXCELERATE LIMITED,False,True
+SENISCA,https://www.seniscabio.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Spliceor,https://www.spliceor.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Stemnovate,https://www.stemnovate.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+STORM Therapeutics,https://www.stormtherapeutics.com,hub,Babraham Research Campus,Biotech/Life Sciences,9553473,CB22 3AT,Active,72110 - Research and experimental development on biotechnology,GROUP,21/04/2015,31/12/2024,"MONETA BUILDING, BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,1.0,STORM THERAPEUTICS LIMITED,False,True
+Talisman Therapeutics,https://www.talismantherapeutics.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+TRx Biosciences,https://www.trxbio.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Xap Therapeutics,https://www.xaptx.com,hub,Babraham Research Campus,Biotech/Life Sciences,,,,,,,,,False,,,False,True
+Zoetis,https://www.zoetis.com,hub,Babraham Research Campus,Biotech/Life Sciences,11095804,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,05/12/2017,30/11/2024,"THE GLENN BERGE BUILDING, BUILDING 940 BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,0.5,ZOETIS SERVICES UK LIMITED,False,True
+Wellcome Sanger Institute,https://www.sanger.ac.uk,hub,Wellcome Genome Campus,Genome/Biodata Campus,,,,,,,,,False,,,False,True
+EMBL’s European Bioinformatics Institute,https://www.ebi.ac.uk,hub,Wellcome Genome Campus,Genome/Biodata Campus,,,,,,,,,False,,,False,True
+Wellcome Connecting Science,https://wellcome.org/connecting-science,hub,Wellcome Genome Campus,Genome/Biodata Campus,,,,,,,,,False,,,False,True
+BioData Innovation Centre,https://www.biodata-innovation-centre.com,hub,Wellcome Genome Campus,Genome/Biodata Campus,,,,,,,,,False,,,False,True
+Abbexa Ltd,https://www.abbexa.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Agenus UK Ltd,https://www.agenusbio.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Ai Vivo Ltd,https://aivivo.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Alan Boswell Group,https://www.alanboswell.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Alianza,https://www.alianza.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Altium,https://www.altium.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+AMD Limited,https://www.amd.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Amgen,https://www.amgen.com,hub,Cambridge Science Park,Science Park,2354269,CB4 0WA,Active,72110 - Research and experimental development on biotechnology,FULL,01/03/1989,31/12/2024,"216 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,AMGEN LIMITED,False,True
+Analog Devices Ltd,https://www.analog.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Astex Pharmaceuticals,https://www.astx.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+AVEVA (Schneider Electric),https://www.aveva.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Bulgin,https://bulgin.com,hub,Cambridge Science Park,Science Park,4949934,CB4 0GZ,Active,26110 - Manufacture of electronic components,FULL,31/10/2003,29/12/2024,"200 SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,BULGIN LIMITED,False,True
+Bango,https://www.bango.com,hub,Cambridge Science Park,Science Park,12977914,CB4 0WZ,Active,62090 - Other information technology service activities,AUDIT EXEMPTION SUBSIDIARY,27/10/2020,31/12/2024,"MATRIX HOUSE, CAMBRIDGE BUSINESS PARK, COWLEY ROAD, CAMBRIDGE",True,0.5,BANGO RESALE HOLDINGS LIMITED,False,True
+Bard Pharmaceuticals Ltd,https://www.bardpharma.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Bayer CropScience,https://www.cropscience.bayer.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Beko,http://www.beko.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Biofidelity Ltd,https://www.biofidelity.com,hub,Cambridge Science Park,Science Park,11830661,CB4 0WN,Active,72110 - Research and experimental development on biotechnology,SMALL,15/02/2019,31/12/2024,"330 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,BIOFIDELITY LTD,False,True
+BOXERsolutions Ltd,https://www.boxersolutions.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+BRDG,https://www.bridg.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Broadcom Ltd,https://www.broadcom.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Cambridge Consultants,https://www.cambridgeconsultants.com,hub,Cambridge Science Park,Science Park,1036298,CB4 0DW,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,24/12/1971,31/12/2024,"UNIT 29 SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,CAMBRIDGE CONSULTANTS LIMITED,False,True
+Cambridge Digital Health,https://www.cambridgedigitalhealth.com,hub,Cambridge Science Park,Science Park,7622053,CB2 8EA,Active,62090 - Other information technology service activities,FULL,04/05/2011,31/07/2025,"SHAFTESBURY ROAD, , CAMBRIDGE",True,0.5,DIGITAL SERVICES CAMBRIDGE LIMITED,False,True
+Cambridge Flow Solutions,http://www.cambridgeflowsolutions.com,hub,Cambridge Science Park,Science Park,8094108,CB4 1UE,Active,71122 - Engineering related scientific and technical consulting activities,UNAUDITED ABRIDGED,06/06/2012,30/06/2025,"47 CHENEY WAY, , CAMBRIDGE",True,0.5,CAMBRIDGE ELECTRONIC SOLUTIONS LIMITED,False,True
+Cambridge Future Tech,https://www.cambridgefuturetech.com,hub,Cambridge Science Park,Science Park,8692249,CB4 0WS,Active,"26511 - Manufacture of electronic measuring, testing etc. equipment, not for industrial process control",UNAUDITED ABRIDGED,16/09/2013,31/01/2025,"ST JOHN'S INNOVATION CENTRE, COWLEY RD, CAMBRIDGE",True,0.667,CAMBRIDGE TECH LTD,False,True
+Cambridge Heartwear,http://www.cambridgeheartwear.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Cambridge Mechatronics,https://www.cambridgemechatronics.com,hub,Cambridge Science Park,Science Park,3071231,CB4 0WG,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,21/06/1995,31/12/2024,"306 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,CAMBRIDGE MECHATRONICS LIMITED,False,True
+Cambridge Touch Technologies,https://www.cambridgetouch.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Cerevance,https://www.cerevance.com,hub,Cambridge Science Park,Science Park,10304008,CB4 0PZ,Active,72110 - Research and experimental development on biotechnology,FULL,29/07/2016,31/12/2024,"418 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,"CEREVANCE, LTD",False,True
+Citrix Systems UK Ltd,https://www.citrix.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+CN-Bio Innovations,https://www.cn-bio.com,hub,Cambridge Science Park,Science Park,6517359,CB4 0WN,Active,"26511 - Manufacture of electronic measuring, testing etc. equipment, not for industrial process control",FULL,28/02/2008,31/12/2024,"332 CAMBRIDGE SCIENCE PARK, , CAMBRIDGE",True,1.0,CN BIO INNOVATIONS LIMITED,False,True
+Creasallis,https://www.creasallis.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+CS Genetics,http://www.csgenetics.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+CW (Cambridge Wireless Ltd),https://www.cambridgewireless.co.uk,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Dassault Systèmes Ltd,https://www.3ds.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+DisplayLink (UK) Ltd,https://www.displaylink.com,hub,Cambridge Science Park,Science Park,4811048,CB4 0FJ,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,25/06/2003,28/06/2025,"22 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,DISPLAYLINK (UK) LIMITED,False,True
+Dr Reddy’s,https://www.drreddys.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Emberion Limited,https://www.emberion.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Endomag,http://www.endomag.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+EnSilica,http://www.ensilica.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Excelitas Noblelight Ltd,https://www.excelitas.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Exscientia,http://www.exscientia.ai,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+EDX Medical Group Plc,http://www.edxmedical.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Featurespace,https://www.featurespace.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+FlexEnable,https://www.flexenable.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Frontier Developments Plc,https://www.frontier.co.uk,hub,Cambridge Science Park,Science Park,2892559,CB4 0FP,Active,58210 - Publishing of computer games,GROUP,28/01/1994,31/05/2025,"26 SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,FRONTIER DEVELOPMENTS PLC,False,True
+Gearset,https://www.gearset.com,hub,Cambridge Science Park,Science Park,10345423,CB4 0FP,Active,62012 - Business and domestic software development,GROUP,25/08/2016,31/12/2024,"26 SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,GEARSET LIMITED,False,True
+Grant Thornton,https://www.grantthornton.co.uk,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Hanwha Phasor,https://www.hanwha.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Heartfelt Technologies,https://www.heartfelttech.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Hedera Innovations Ltd,https://www.hed erainnovations.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Hereworks,https://www.hereworks.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Howden Insurance Brokers,https://www.howdengroup.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+HR Ready,https://www.hrready.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Huawei UK Research Centre,https://www.huawei.com/uk,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Huber+Suhner Polatis Ltd,https://www.hubersuhner.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Immaterial Ltd,https://www.immaterial.com,hub,Cambridge Science Park,Science Park,9829727,CB4 0FW,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,19/10/2015,30/04/2025,"25 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,IMMATERIAL LTD,False,True
+Iprova,https://www.iprova.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Iqvia,https://www.iqvia.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+ITO,http://www.ito.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Ignota Labs,https://www.ignotalabs.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Jagex,https://www.jagex.com,hub,Cambridge Science Park,Science Park,3982706,CB4 0WA,Active,62011 - Ready-made interactive leisure and entertainment software development,FULL,28/04/2000,31/12/2024,"220 CAMBRIDGE SCIENCE PARK, , CAMBRIDGE",True,1.0,JAGEX LIMITED,False,True
+Johnson Matthey,https://www.matthey.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Koettermann UK Ltd,https://www.koettermann.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Linguamatics,http://www.linguamatics.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Lucideon,http://www.lucideon.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Mantle Space Ltd,https://www.mantlespace.co.uk,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Mathworks,https://www.mathworks.com,hub,Cambridge Science Park,Science Park,3444214,CB4 0JL,Active,62012 - Business and domestic software development,FULL,29/09/1997,31/12/2024,"1 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,THE MATHWORKS LIMITED,False,True
+MicrosensDx,http://www.microsensdx.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Microsoft Cambridge,https://www.microsoft.com/en-gb/cambridge/,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Milltons,https://www.milltons.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Mogrify,https://www.mogrify.co.uk,hub,Cambridge Science Park,Science Park,10002103,CB4 0FW,Active,72110 - Research and experimental development on biotechnology,FULL,12/02/2016,31/12/2024,"25 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,MOGRIFY LIMITED,False,True
+Mulberry Risk,https://www.mulberryrisk.com,hub,Cambridge Science Park,Science Park,,,,,,,,,False,,,False,True
+Mundipharma International Ltd,https://www.mundipharma.com,hub,Cambridge Science Park,Science Park,4608592,CB4 0GW,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,04/12/2002,31/12/2024,"UNIT 191 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,0.5,MUNDIPHARMA RESEARCH LIMITED,False,True
+Mundipharma IT Services Ltd,https://www.mundipharma.com/en/innovation/mundipharma-it-services/,hub,Cambridge Science Park,Science Park,7485493,CB4 0GW,Active,62090 - Other information technology service activities,GROUP,07/01/2011,31/12/2024,"UNIT 191 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,1.0,MUNDIPHARMA IT SERVICES LIMITED,False,True
+Autonomy Corporation plc,https://www.autonomy.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Jagex Ltd,https://www.jagex.com/,hub,St John's Innovation Centre,Technology Incubation,3982706,CB4 0WA,Active,62011 - Ready-made interactive leisure and entertainment software development,FULL,28/04/2000,31/12/2024,"220 CAMBRIDGE SCIENCE PARK, , CAMBRIDGE",True,1.0,JAGEX LIMITED,False,True
+Zeus Technology Ltd,https://www.zeustechnology.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Owlstone Ltd,https://www.owlstone.co.uk/,hub,St John's Innovation Centre,Technology Incubation,4955647,CB4 0GA,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,06/11/2003,31/12/2024,"183 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,0.5,OWLSTONE MEDICAL LIMITED,False,True
+Breathing Buildings Ltd,https://www.breathingbuildings.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Scientia Ltd,https://www.scientia.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Datanomic Ltd,https://www.datanomic.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+HutanBio Ltd,https://www.hutanbio.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+DKK-TOA Corporation,https://www.dkk-toa.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Applied Ecology,https://www.appliedecology.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Collabora Ltd,https://www.collabora.com/,hub,St John's Innovation Centre,Technology Incubation,5513718,CB4 0WS,Active,62020 - Information technology consultancy activities,GROUP,20/07/2005,31/12/2024,"UNIT 1.06, ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,1.0,COLLABORA LIMITED,False,True
+Trustonic Ltd,https://www.trustonic.com/,hub,St John's Innovation Centre,Technology Incubation,7890730,CB4 0WS,Active,62012 - Business and domestic software development,GROUP,22/12/2011,31/12/2024,"UNIT 1.16 ST JOHNS INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,1.0,TRUSTONIC LIMITED,False,True
+Witine Limited,https://www.witine.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Lidya Tech,https://www.lidyatech.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Iprova Ltd,https://www.iprova.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Legalesign,https://www.legalesign.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+RF Creations Ltd,https://www.rfcreations.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+NetworkMods,https://www.networkmods.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Redbite Solutions,https://www.redbitesolutions.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+School Software Company,https://www.schoolsoftwarecompany.com/,hub,St John's Innovation Centre,Technology Incubation,5998626,CB4 0WS,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,14/11/2006,31/12/2024,"ST. JOHNS INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,0.75,SCHOOL SOFTWARE COMPANY .COM LTD.,False,True
+PervasID,https://www.pervasid.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+ProductLife Group,https://www.productlife.com/,hub,St John's Innovation Centre,Technology Incubation,5372228,CB4 0WS,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,22/02/2005,31/12/2023,"ST JOHN'S INNOVATION CENTRE ST JOHN'S INNOVATION PARK, COWLEY ROAD, CAMBRIDGE",True,1.0,PRODUCTLIFE LIMITED,False,True
+Tissue & Cell Technologies Ltd,https://www.tissueandcelltech.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+OriBiotech Ltd,https://www.oribiotech.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Healthera,https://www.healthera.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Igennus Healthcare Nutrition,https://www.igennus.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Microlife,https://www.microlife.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Cambridge Healthcare Research,https://www.cambridgehealthcareresearch.com/,hub,St John's Innovation Centre,Technology Incubation,2060803,CB1 2LG,Active,71111 - Architectural activities,UNAUDITED ABRIDGED,02/10/1986,31/12/2024,"UNIT 6, 25 GWYDIR STREET, CAMBRIDGE",True,0.5,CAMBRIDGE ARCHITECTURAL RESEARCH LIMITED,False,True
+Chemical Computing Group,https://www.chemcomp.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+BlueScientific Ltd,https://www.bluescientific.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Better Stronger Ltd,https://www.betterstronger.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+VCLS,https://www.vcls.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Crayfish.io Ltd,https://www.crayfish.io/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Arthur D. Little Limited,https://www.adl.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+British Standards Institute,https://www.bsigroup.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+F.Institute,https://www.f.institute/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Clearly Education Ltd,https://www.clearlyeducation.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+CB3 Consulting Ltd,https://www.cb3consulting.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Markham Insignis Cash Solutions,https://www.markhaminsignis.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Qi3,https://www.qi3.co.uk/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Kaplan Financial Ltd,https://www.kaplan.co.uk/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+First Ascent Group,https://www.firstascentgroup.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+DMFL Support Robotics,https://www.dmflsupportrobotics.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Robotae,https://www.robotae.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Fen Research Ltd,https://www.fenresearch.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Cambridge Advanced Materials Ltd,https://www.cambridgeadvancedmaterials.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Cydar Medical,https://www.cydar.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Aavora Ltd,https://www.aavora.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Supersense,https://www.supersense.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Quantios,https://www.quantios.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Waymap,https://www.waymap.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Infersens Ltd,https://www.infersens.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+All Focal,https://www.allfocal.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Cinema8,https://www.cinema8.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+iot747,https://www.iot747.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Forefront,https://www.forefront.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Phantom Technology Ltd,https://www.phantomtechnology.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Cambridge Kinetics,https://www.cambridgekinetics.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Pilot Creative Ltd,https://www.pilotcreative.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+HDR Nova,https://www.hdrnova.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Tebira Ltd,https://www.tebira.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Phil Wright Consultancy Ltd,https://www.philwrightconsultancy.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Virtual Arts,https://www.virtualarts.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+LispWorks,https://www.lispworks.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Green Custard Ltd,https://www.greencustard.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Ellexus,https://www.ellexus.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Commsonic Ltd,https://www.commsonic.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Archipelago Technology,https://www.archipelagotechnology.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+ACX Instruments Ltd,https://www.acxinstruments.com/,hub,St John's Innovation Centre,Technology Incubation,14273222,CB4 0WS,Active,71121 - Engineering design activities for industrial process and production,SMALL,03/08/2022,31/12/2024,"ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,1.0,ACX INSTRUMENTS LTD,False,True
+VNC Automotive Ltd,https://www.vncautomotive.com/,hub,St John's Innovation Centre,Technology Incubation,5822974,CB4 0WS,Active,62012 - Business and domestic software development,FULL,19/05/2006,31/12/2024,"EDINBURGH HOUSE ST JOHN'S INNOVATION PARK, COWLEY ROAD, CAMBRIDGE",True,0.5,VNC GROUP LIMITED,False,True
+Glenworth Associates Ltd,https://www.glenworthassociates.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Deyton Bell,https://www.deytonbell.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Praxis,https://www.praxis.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Auril,https://www.auril.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Sookio,https://www.sookio.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Linaud Health,https://www.linaudhealth.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Enterprise East,https://www.enterpriseeast.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Netmatters Ltd,https://www.netmatters.com/,hub,St John's Innovation Centre,Technology Incubation,,,,,,,,,False,,,False,True
+Bensasson & Chalmers Ltd,https://www.bensassonchalmers.com/,hub,St John's Innovation Centre,Technology Incubation,3188792,CB4 0WS,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,19/04/1996,31/03/2025,"DIRAC HOUSE ST. JOHN'S INNOVATION PARK, COWLEY ROAD, CAMBRIDGE",True,1.0,BENSASSON & CHALMERS LIMITED,False,True
+BioMed Realty,https://www.biomedrealty.com,hub,Granta Park,Science Park,,,,,,,,,False,,,False,True
+TWI,https://www.twi-global.com,hub,Granta Park,Science Park,,,,,,,,,False,,,False,True
+BIGHOKI,https://www.bighoki.com,hub,Cambridge Research Park,Research Park,,,,,,,,,False,,,False,True
+Bruntwood SciTech,https://bruntwoodscitech.com,hub,Melbourn Science Park,Science Park,,,,,,,,,False,,,False,True
+bit.bio,https://bit.bio,hub,Accelerate Cambridge,Business Acceleration,10466798,CB3 0QH,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,07/11/2016,31/12/2024,"CAMBRIDGE HOUSE CAMBORO BUSINESS PARK, GIRTON, CAMBRIDGE",True,1.0,BIT BIO LIMITED,False,True
+1SPATIAL GROUP LIMITED,,companies_house,,,4785688,CB25 9PB,Active,62020 - Information technology consultancy activities,FULL,03/06/2003,31/01/2024,"UNIT F7, STIRLING HOUSE CAMBRIDGE INNOVATION PARK, DENNY END ROAD, WATERBEACH, CAMBRIDGE",True,,,False,False
+1SPATIAL PLC,,companies_house,,,5429800,CB25 9PB,Active,62090 - Other information technology service activities,GROUP,20/04/2005,31/01/2025,"UNIT F7 STIRLING HOUSE CAMBRIDGE INNOVATION PARK, DENNY END ROAD, WATERBEACH, CAMBRIDGE",True,,,False,False
+24I UNIT MEDIA LIMITED,,companies_house,,,5054992,CB2 1PH,Active,62012 - Business and domestic software development,AUDIT EXEMPTION SUBSIDIARY,25/02/2004,30/11/2023,"BOTANIC HOUSE, 100 HILLS ROAD, CAMBRIDGE",True,,,False,False
+28 NORTH DISCOVERY LIMITED,,companies_house,,,10458979,CB4 0WN,Active,72110 - Research and experimental development on biotechnology,UNAUDITED ABRIDGED,02/11/2016,31/12/2024,"332 CAMBRIDGE SCIENCE PARK, , CAMBRIDGE",True,,,False,False
+42 TECHNOLOGY LIMITED,,companies_house,,,4341237,CB23 6DW,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,17/12/2001,31/12/2024,"BUILDING 1020 CAMBOURNE PARK SCIENCE & TECHNOLOGY CAMPUS, CAMBOURNE, CAMBRIDGE",True,,,False,False
+ABZENA (CAMBRIDGE) LIMITED,,companies_house,,,5318448,CB22 3AT,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,21/12/2004,31/12/2024,"BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,,,False,False
+ABZENA LIMITED,,companies_house,,,8957107,CB22 3AT,Active,72110 - Research and experimental development on biotechnology,AUDIT EXEMPTION SUBSIDIARY,25/03/2014,31/12/2024,"BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,,,False,False
+ACOUSTICAL CONTROL CONSULTANTS LIMITED,,companies_house,,,1602951,CB23 2TA,Active,71122 - Engineering related scientific and technical consulting activities,UNAUDITED ABRIDGED,09/12/1981,28/02/2025,"BROADWAY, BOURN, CAMBRIDGE",True,,,False,False
+ACOUSTICAL CONTROL ENGINEERS LIMITED,,companies_house,,,1061402,CB23 2TA,Active,71129 - Other engineering activities,UNAUDITED ABRIDGED,13/07/1972,28/02/2025,"BROADWAY, BOURN, CAMBRIDGE, CAMBRIDGESHIRE",True,,,False,False
+ACTIGEN LIMITED,,companies_house,,,3433416,CB4 0WS,Active,72110 - Research and experimental development on biotechnology,SMALL,12/09/1997,31/12/2024,"ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+ADS BIOTEC LIMITED,,companies_house,,,3257373,CB1 2JD,Active,21100 - Manufacture of basic pharmaceutical products,SMALL,01/10/1996,30/09/2025,"22 STATION ROAD, , CAMBRIDGE",True,,,False,False
+AFT CONSULT LIMITED,,companies_house,,,9221652,CB22 3EE,Active,71122 - Engineering related scientific and technical consulting activities,UNAUDITED ABRIDGED,17/09/2014,30/09/2024,"UNIT H, OWL BLDG. EATERN COUNTIES IND.EST. LONDON ROAD, PAMPISFORD, CAMBRIDGE",True,,,False,False
+AGFA HEALTHCARE UK LIMITED,,companies_house,,,6317215,CB1 3JS,Active,62090 - Other information technology service activities,FULL,18/07/2007,31/12/2024,"515 COLDHAMS LANE, , CAMBRIDGE",True,,,False,False
+AICOMP UK LIMITED,,companies_house,,,10960759,CB1 2LA,Active,62020 - Information technology consultancy activities,SMALL,13/09/2017,31/12/2024,"SALISBURY HOUSE, 2-3 SALISBURY VILLAS, CAMBRIDGE",True,,,False,False
+ALEMBA LIMITED,,companies_house,,,6322945,CB1 2LA,Active,62090 - Other information technology service activities,SMALL,24/07/2007,31/12/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+ALEMBA TOPCO LIMITED,,companies_house,,,8959846,CB1 2LA,Active,62012 - Business and domestic software development,SMALL,26/03/2014,31/12/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+ALLOY THERAPEUTICS UK LIMITED,,companies_house,,,11870377,CB21 6GP,Active,72110 - Research and experimental development on biotechnology,SMALL,08/03/2019,31/12/2024,"UNIT 3 MCCLINTOCK BUILDING, GRANTA PARK, GREAT ABINGTON",True,,,False,False
+AMANTYS POWER ELECTRONICS LTD.,,companies_house,,,9618523,CB24 9PT,Active,71129 - Other engineering activities,SMALL,02/06/2015,31/12/2024,"D3 PIONEER COURT VISION PARK, HISTON, CAMBRIDGE",True,,,False,False
+AMPHISTA THERAPEUTICS LIMITED,,companies_house,,,11119959,CB21 6GQ,Active,72110 - Research and experimental development on biotechnology,GROUP,20/12/2017,31/12/2024,"THE CORI BUILDING GRANTA PARK, GREAT ABINGTON, CAMBRIDGE",True,,,False,False
+APICAL LIMITED,,companies_house,,,3701846,CB1 9NJ,Active,26110 - Manufacture of electronic components,AUDIT EXEMPTION SUBSIDIARY,26/01/1999,31/03/2025,"110 FULBOURN ROAD, , CAMBRIDGE",True,,,False,False
+APOLLO AP04 LIMITED,,companies_house,,,13594883,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,31/08/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP05 LIMITED,,companies_house,,,13735245,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,10/11/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP08 LIMITED,,companies_house,,,13594874,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,31/08/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP09 LIMITED,,companies_house,,,13735253,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,10/11/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP10 LIMITED,,companies_house,,,13886072,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,01/02/2022,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP13 LIMITED,,companies_house,,,13736377,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,10/11/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP20 LIMITED,,companies_house,,,13736381,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,10/11/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP21 LIMITED,,companies_house,,,13737726,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,11/11/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP23 LIMITED,,companies_house,,,13737736,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,11/11/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP24 LIMITED,,companies_house,,,13737746,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,11/11/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP28 LIMITED,,companies_house,,,13886082,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,01/02/2022,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP30 LIMITED,,companies_house,,,13737762,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,11/11/2021,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP39 LIMITED,,companies_house,,,14395980,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,04/10/2022,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP40 LIMITED,,companies_house,,,15508393,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,20/02/2024,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP43 LIMITED,,companies_house,,,14237787,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,15/07/2022,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP48 LIMITED,,companies_house,,,15494545,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,16/02/2024,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+APOLLO AP52 LIMITED,,companies_house,,,15822012,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,05/07/2024,31/12/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+ASTEX THERAPEUTICS LIMITED,,companies_house,,,3751674,CB4 0QA,Active,72110 - Research and experimental development on biotechnology,FULL,14/04/1999,31/12/2024,"436 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,,,False,False
+ASTRAZENECA PLC,,companies_house,,,2723534,CB2 0AA,Active,21100 - Manufacture of basic pharmaceutical products,GROUP,17/06/1992,31/12/2024,"1 FRANCIS CRICK AVENUE, CAMBRIDGE BIOMEDICAL CAMPUS, CAMBRIDGE",True,,,False,False
+ASTREA UK SERVICES LIMITED,,companies_house,,,12559260,CB23 7AJ,Active,72110 - Research and experimental development on biotechnology,SMALL,16/04/2020,31/12/2024,"UNIT 1 HORIZON PARK, BARTON ROAD, COMBERTON",True,,,False,False
+AUBAY UK LIMITED,,companies_house,,,8709876,CB25 9AU,Active,62020 - Information technology consultancy activities,SMALL,30/09/2013,31/12/2024,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+AUDINATE LTD,,companies_house,,,7403340,CB4 2HY,Active,62090 - Other information technology service activities,SMALL,11/10/2010,30/06/2024,"FUTURE BUSINESS CENTRE, KINGS HEDGES ROAD, CAMBRIDGE",True,,,False,False
+AUGMENTRA LIMITED,,companies_house,,,5682551,CB4 0WS,Active,62012 - Business and domestic software development,SMALL,20/01/2006,31/12/2024,"ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+AVEVA FINANCE LIMITED,,companies_house,,,8442061,CB3 0HB,Active,62012 - Business and domestic software development,MEDIUM,12/03/2013,31/12/2024,"HIGH CROSS, MADINGLEY ROAD, CAMBRIDGE",True,,,False,False
+AVEVA FINANCING LIMITED,,companies_house,,,11825818,CB3 0HB,Active,62012 - Business and domestic software development,MEDIUM,13/02/2019,31/12/2024,"HIGH CROSS, MADINGLEY ROAD, CAMBRIDGE",True,,,False,False
+AVEVA GROUP LIMITED,,companies_house,,,2937296,CB3 0HB,Active,"26309 - Manufacture of communication equipment other than telegraph, and telephone apparatus and equipment",FULL,09/06/1994,31/12/2024,"HIGH CROSS, MADINGLEY ROAD, CAMBRIDGE",True,,,False,False
+AVEVA LIMITED,,companies_house,,,5249855,CB3 0HB,Active,58290 - Other software publishing,MEDIUM,05/10/2004,31/12/2024,"HIGH CROSS, MADINGLEY ROAD, CAMBRIDGE",True,,,False,False
+AVEVA SOFTWARE GB LIMITED,,companies_house,,,3555875,CB4 0FY,Active,62012 - Business and domestic software development,FULL,27/04/1998,31/12/2024,"101 SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,,,False,False
+AVEVA SOLUTIONS LIMITED,,companies_house,,,803680,CB3 0HB,Active,58290 - Other software publishing,FULL,04/05/1964,31/12/2024,"HIGH CROSS, MADINGLEY ROAD, CAMBRIDGE",True,,,False,False
+AVOS TECHNOLOGY LTD,,companies_house,,,13981977,CB1 7BN,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,16/03/2022,31/12/2024,"9 CLIFTON COURT, , CAMBRIDGE",True,,,False,False
+BANG THE TABLE (UK) PTY LTD,,companies_house,,,7942888,CB3 0NA,Active,62090 - Other information technology service activities,SMALL,09/02/2012,31/12/2024,"GROUND FLOOR 3 WELLBROOK COURT, GIRTON, CAMBRIDGE",True,,,False,False
+BANGO RESALE LIMITED,,companies_house,,,12999158,CB4 0WZ,Active,62090 - Other information technology service activities,AUDIT EXEMPTION SUBSIDIARY,05/11/2020,31/12/2024,"MATRIX HOUSE, CAMBRIDGE BUSINESS PARK, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+BANKTECH SOFTWARE SERVICES LIMITED,,companies_house,,,5865616,CB1 2LA,Active,62012 - Business and domestic software development,SMALL,04/07/2006,31/12/2023,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+BIOSCEPTRE INTERNATIONAL LIMITED,,companies_house,,,8729489,CB1 2LA,Active,72110 - Research and experimental development on biotechnology,GROUP,11/10/2013,30/06/2025,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+BIT2QUBIT TECHNOLOGIES LTD,,companies_house,,,15462994,CB24 1BP,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,02/02/2024,28/02/2025,"15 TEMPLE ROAD, NORTHSTOWE, CAMBRIDGE",True,,,False,False
+BPLETE LIMITED,,companies_house,,,13439199,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,04/06/2021,31/08/2024,"BUILDING 950 BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,,,False,False
+C&R WISE AI LIMITED,,companies_house,,,12893358,CB4 0WS,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,21/09/2020,30/09/2024,"UNIT 2.16, ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+CAMBRIDGE ANTIBODY TECHNOLOGY GROUP LIMITED,,companies_house,,,3234033,CB2 0AA,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,05/08/1996,31/12/2024,"1 FRANCIS CRICK AVENUE, CAMBRIDGE BIOMEDICAL CAMPUS, CAMBRIDGE",True,,,False,False
+CAMBRIDGE BIOMEDICAL CAMPUS LTD,,companies_house,,,13471389,CB2 0QQ,Active,72110 - Research and experimental development on biotechnology,SMALL,22/06/2021,30/06/2024,"ADDENBROOKES HOSPITAL BOX 146 CAMBRIDGE BIOMEDICAL CAMPUS, HILLS ROAD, CAMBRIDGE",True,,,False,False
+CAMBRIDGE COGNITION LIMITED,,companies_house,,,4338746,CB25 9TU,Active,62012 - Business and domestic software development,FULL,12/12/2001,31/12/2024,"TUNBRIDGE COURT TUNBRIDGE LANE, BOTTISHAM, CAMBRIDGE",True,,,False,False
+CAMBRIDGE ELECTRIC CEMENT LTD,,companies_house,,,14263992,CB1 2JD,Active,72190 - Other research and experimental development on natural sciences and engineering,UNAUDITED ABRIDGED,29/07/2022,31/07/2024,"3RD FLOOR, 22 STATION ROAD, CAMBRIDGE",True,,,False,False
+CAMBRIDGE ENVIRONMENTAL RESEARCH CONSULTANTS LIMITED,,companies_house,,,1926883,CB2 1SJ,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,28/06/1985,31/12/2024,"3 KINGS PARADE, CAMBRIDGE, CAMBS",True,,,False,False
+CAMBRIDGE FIRE RESEARCH LIMITED,,companies_house,,,5602112,CB22 3HG,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,25/10/2005,31/08/2024,"CAMBRIDGE FIRE RESEARCH BREWERY ROAD, PAMPISFORD, CAMBRIDGE",True,,,False,False
+CAMBRIDGE INTELLIGENCE LIMITED,,companies_house,,,7625370,CB2 1JP,Active,62020 - Information technology consultancy activities,GROUP,06/05/2011,31/05/2024,"6-8 HILLS ROAD, , CAMBRIDGE",True,,,False,False
+CANTAB RESEARCH LIMITED,,companies_house,,,5697423,CB4 0AE,Active,62012 - Business and domestic software development,GROUP,03/02/2006,31/12/2024,"ONE CAMBRIDGE SQUARE MILTON AVENUE, CAMBRIDGE NORTH, CAMBRIDGE",True,,,False,False
+CARAT COMPUTER SYSTEMS LIMITED,,companies_house,,,3603296,CB25 9AU,Active,62090 - Other information technology service activities,UNAUDITED ABRIDGED,23/07/1998,30/04/2025,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+CCDC SERVICES LIMITED,,companies_house,,,3483374,CB2 1EZ,Active,62090 - Other information technology service activities,SMALL,19/12/1997,31/12/2024,"12 UNION ROAD, CAMBRIDGE, CAMBRIDGESHIRE",True,,,False,False
+CELLULAR HIGHWAYS LIMITED,,companies_house,,,11152031,CB25 9TL,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,16/01/2018,31/03/2024,"BUILDING 7100 CAMBRIDGE RESEARCH PARK BEACH DRIVE, WATERBEACH, CAMBRIDGE",True,,,False,False
+CEP-IP LTD,,companies_house,,,9821607,CB1 1BH,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,13/10/2015,31/12/2024,"WELLINGTON HOUSE, EAST ROAD, CAMBRIDGE",True,,,False,False
+CHALEIT HOLDINGS LIMITED,,companies_house,,,13498540,CB2 1PH,Active,62020 - Information technology consultancy activities,GROUP,07/07/2021,31/03/2025,"BOTANIC HOUSE, 100 HILLS RD, CAMBRIDGE",True,,,False,False
+CHECKIT EUROPE LIMITED,,companies_house,,,9343487,CB3 0FA,Active,62012 - Business and domestic software development,AUDIT EXEMPTION SUBSIDIARY,05/12/2014,31/01/2025,"C/O CHECKIT PLC BROERS BUILDING, 21 J J THOMSON AVENUE, CAMBRIDGE",True,,,False,False
+CHECKIT UK LIMITED,,companies_house,,,2540171,CB3 0FA,Active,62012 - Business and domestic software development,AUDIT EXEMPTION SUBSIDIARY,17/09/1990,31/01/2025,"C/O CHECKIT PLC BROERS BUILDING, 21 J J THOMSON AVENUE, CAMBRIDGE",True,,,False,False
+COMSOL LIMITED,,companies_house,,,4191368,CB3 0DU,Active,58290 - Other software publishing,SMALL,30/03/2001,31/12/2024,"6 JOURNEY CAMPUS, CASTLE PARK, CAMBRIDGE",True,,,False,False
+CYCLE GROUP HOLDINGS LIMITED,,companies_house,,,12708790,CB3 0FA,Active,21100 - Manufacture of basic pharmaceutical products,GROUP,30/06/2020,31/12/2024,"THE BROERS BUILDING, 21 JJ THOMSON AVE, CAMBRIDGE",True,,,False,False
+CYCLE PHARMACEUTICALS LTD,,companies_house,,,7933058,CB3 0FA,Active,21100 - Manufacture of basic pharmaceutical products,FULL,02/02/2012,31/12/2024,"THE BROERS BUILDING, 21 JJ THOMSON AVE, CAMBRIDGE",True,,,False,False
+DARKTRACE HOLDINGS LIMITED,,companies_house,,,8562035,CB4 0DS,Active,62012 - Business and domestic software development,FULL,10/06/2013,30/06/2024,"MAURICE WILKES BUILDING ST JOHN'S INNOVATION PARK, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+DARKTRACE LIMITED,,companies_house,,,13264637,CB4 0DS,Active,62012 - Business and domestic software development,GROUP,12/03/2021,30/06/2024,"MAURICE WILKES BUILDING, ST JOHN'S INNOVATION PARK, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+DEBUG INNOVATIONS LIMITED,,companies_house,,,5065684,CB24 4TR,Active,62090 - Other information technology service activities,UNAUDITED ABRIDGED,05/03/2004,31/03/2025,"16 MOAT WAY, SWAVESEY, CAMBRIDGE, CAMBRIDGESHIRE",True,,,False,False
+DIBA INDUSTRIES LIMITED,,companies_house,,,1138135,CB1 3HD,Active,21100 - Manufacture of basic pharmaceutical products,FULL,05/10/1973,31/03/2025,"2 COLLEGE PARK, COLDHAMS LANE, CAMBRIDGE",True,,,False,False
+DIGITAL INSIGHT TECHNOLOGIES LTD,,companies_house,,,11241397,CB4 0WS,Active,58290 - Other software publishing,SMALL,08/03/2018,31/12/2024,"ST. JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+DMAP LIMITED,,companies_house,,,2419285,CB25 9AU,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,04/09/1989,30/04/2025,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+DUNAD THERAPEUTICS LTD.,,companies_house,,,12544797,CB22 4QH,Active,72110 - Research and experimental development on biotechnology,GROUP,02/04/2020,31/12/2024,"THE OFFICERS' MESS, ROYSTON ROAD, CAMBRIDGE",True,,,False,False
+EAST MALLING SERVICES LTD.,,companies_house,,,2335037,CB3 0LE,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,13/01/1989,31/03/2024,"NIAB, 93 LAWRENCE WEAVER ROAD, CAMBRIDGE",True,,,False,False
+ELMDON CONSULTANTS LIMITED,,companies_house,,,7072665,CB25 9AU,Active,71122 - Engineering related scientific and technical consulting activities,UNAUDITED ABRIDGED,11/11/2009,30/11/2025,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+ENSYGNIA IP LTD,,companies_house,,,9508905,CB1 2GE,Active,62090 - Other information technology service activities,UNAUDITED ABRIDGED,25/03/2015,31/12/2024,"C/O MISHCON DE REYA, FOUR STATION SQUARE, CAMBRIDGE",True,,,False,False
+ENSYGNIA LTD,,companies_house,,,7462913,CB1 2GE,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,07/12/2010,31/12/2024,"C/O MISHCON DE REYA, FOUR STATION SQUARE, CAMBRIDGE",True,,,False,False
+ENTERPRISE BUSINESS APPLICATIONS LIMITED,,companies_house,,,12116079,CB5 8LA,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,22/07/2019,30/04/2025,"C/O TACC - 11 SIGNET COURT SWANN ROAD, GROUND FLOOR, CAMBRIDGE",True,,,False,False
+ENVEA UK LTD,,companies_house,,,2514486,CB24 4RB,Active,"26511 - Manufacture of electronic measuring, testing etc. equipment, not for industrial process control",FULL,22/06/1990,31/12/2024,"ENVEA HOUSE ROSE & CROWN ROAD, SWAVESEY, CAMBRIDGE",True,,,False,False
+EVENTSFORCE SOLUTIONS LTD,,companies_house,,,5025902,CB3 0NA,Active,62020 - Information technology consultancy activities,SMALL,26/01/2004,31/12/2024,"GROUND FLOOR, 3 WELLBROOK COURT, GIRTON, CAMBRIDGE",True,,,False,False
+EVONETIX LTD,,companies_house,,,9440594,CB3 0QH,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,16/02/2015,31/10/2024,"UNIT 1 CAMBRIDGE HOUSE CAMBORO BUSINESS PARK OAKINGTON ROAD, GIRTON, CAMBRIDGE",True,,,False,False
+EXIGENT THERAPEUTICS LIMITED,,companies_house,,,15365056,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,20/12/2023,31/10/2024,"THE CAMBRIDGE PARTNERSHIP DOROTHY HODGKIN BLDG BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,,,False,False
+EXONATE LIMITED,,companies_house,,,8803638,CB22 4PS,Active,21100 - Manufacture of basic pharmaceutical products,FULL,05/12/2013,31/12/2024,"WTL MOORFIELD ROAD, DUXFORD, CAMBRIDGE",True,,,False,False
+EXPOPLATFORM LIMITED,,companies_house,,,8709065,CB4 3AZ,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,27/09/2013,31/12/2024,"28 CHESTERTON ROAD, , CAMBRIDGE",True,,,False,False
+FACT- FINDER (UK) LIMITED,,companies_house,,,9319778,CB3 0QH,Active,62090 - Other information technology service activities,SMALL,20/11/2014,31/12/2024,"CAMBRIDGE HOUSE CAMBORO BUSINESS PARK, GIRTON, CAMBRIDGE",True,,,False,False
+FIG THERAPEUTICS LIMITED,,companies_house,,,15653158,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,16/04/2024,30/04/2025,"THE CAMBRIDGE PARTNERSHIP, DOROTHY HODGKIN BLDG BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,,,False,False
+FIGNUM LIMITED,,companies_house,,,11918733,CB1 2GA,Active,62012 - Business and domestic software development,SMALL,01/04/2019,30/06/2024,"1 STATION SQUARE, , CAMBRIDGE",True,,,False,False
+FISTREEM INTERNATIONAL LIMITED,,companies_house,,,5136733,CB4 1TF,Active,"26511 - Manufacture of electronic measuring, testing etc. equipment, not for industrial process control",UNAUDITED ABRIDGED,25/05/2004,30/04/2025,"BEACON HOUSE, NUFFIELD ROAD, CAMBRIDGE",True,,,False,False
+FIVE AI LIMITED,,companies_house,,,10423075,CB1 2JD,Active,62012 - Business and domestic software development,FULL,12/10/2016,31/12/2024,"FORA, 20 STATION ROAD, CAMBRIDGE",True,,,False,False
+FLUSSO LIMITED,,companies_house,,,10226707,CB3 0QH,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,10/06/2016,31/12/2024,"UNIT 1, CAMBRIDGE HOUSE CAMBORO BUSINESS PARK, OAKINGTON ROAD, GIRTON, CAMBRIDGE",True,,,False,False
+FORMPIPE SOFTWARE LIMITED,,companies_house,,,2438041,CB3 0NA,Active,62090 - Other information technology service activities,MEDIUM,31/10/1989,31/12/2024,"GROUND FLOOR 3 WELLBROOK COURT, GIRTON, CAMBRIDGE",True,,,False,False
+FRONTIER GAMES LIMITED,,companies_house,,,12553555,CB4 0FP,Active,58210 - Publishing of computer games,AUDIT EXEMPTION SUBSIDIARY,09/04/2020,31/05/2024,"26 SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,,,False,False
+FRONTIER SMART TECHNOLOGIES LIMITED,,companies_house,,,4213838,CB22 7GG,Active,26400 - Manufacture of consumer electronics,FULL,10/05/2001,31/12/2024,"HARSTON MILL ROYSTON ROAD, HARSTON, CAMBRIDGE",True,,,False,False
+FULL MATRIX LTD,,companies_house,,,12784436,CB1 9PD,Active,71122 - Engineering related scientific and technical consulting activities,UNAUDITED ABRIDGED,31/07/2020,31/07/2025,"27 HARCOMBE ROAD, , CAMBRIDGE",True,,,False,False
+G.B. GEOTECHNICS LIMITED,,companies_house,,,2113729,CB25 0NW,Active,71111 - Architectural activities,GROUP,23/03/1987,31/03/2025,"UNIT 2 DOWNING PARK, SWAFFHAM BULBECK, CAMBRIDGE",True,,,False,False
+GABYTES TECHNOLOGY LIMITED,,companies_house,,,11646639,CB23 6NE,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,29/10/2018,31/07/2025,"2 FITZROY CLOSE, WEST CAMBOURNE, CAMBRIDGE",True,,,False,False
+GARDASOFT VISION LIMITED,,companies_house,,,3763190,CB24 4UQ,Active,26512 - Manufacture of electronic industrial process control equipment,SMALL,30/04/1999,31/12/2024,"UNITS B & C TRINITY COURT BUCKINGWAY BUSINESS PARK, ANDERSON ROAD, SWAVESEY, CAMBRIDGE",True,,,False,False
+GETBUSY PLC,,companies_house,,,10828058,CB22 3FT,Active,58290 - Other software publishing,GROUP,21/06/2017,31/12/2024,"SUITE 8 THE WORKS 20 WEST STREET, UNITY CAMPUS, PAMPISFORD, CAMBRIDGE",True,,,False,False
+GHX UK LTD,,companies_house,,,3008226,CB4 0GA,Active,62090 - Other information technology service activities,SMALL,10/01/1995,31/12/2024,"THE BRADFIELD CENTRE 184 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,,,False,False
+GLOBAL INKJET SYSTEMS LIMITED,,companies_house,,,6012630,CB4 0WS,Active,62090 - Other information technology service activities,FULL,29/11/2006,31/12/2024,"ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+GRAEGIS PHARMACEUTICALS LIMITED,,companies_house,,,13680871,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,14/10/2021,31/12/2024,"C/O THE CAMBRIDGE PARTNERSHIP THE DOROTHY HODGKIN BUILDING, BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,,,False,False
+GRANICUS-FIRMSTEP LIMITED,,companies_house,,,4283951,CB3 0NA,Active,62090 - Other information technology service activities,MEDIUM,07/09/2001,31/12/2024,"GROUND FLOOR 3 WELLBROOK COURT, GIRTON, CAMBRIDGE",True,,,False,False
+GRANTA INNOVATION LTD,,companies_house,,,11229178,CB25 9AU,Active,72190 - Other research and experimental development on natural sciences and engineering,UNAUDITED ABRIDGED,28/02/2018,31/03/2025,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+GREEN ENERGY OPTIONS LTD,,companies_house,,,5783558,CB23 7QS,Active,26400 - Manufacture of consumer electronics,GROUP,18/04/2006,31/03/2025,"3 ST. MARYS COURT MAIN STREET, HARDWICK, CAMBRIDGE",True,,,False,False
+HARTEST PRECISION INSTRUMENTS LIMITED,,companies_house,,,445493,CB3 0FA,Active,"26511 - Manufacture of electronic measuring, testing etc. equipment, not for industrial process control",FULL,21/11/1947,31/01/2025,"C/O CHECKIT PLC BROERS BUILDING, 21 J J THOMSON AVENUE, CAMBRIDGE",True,,,False,False
+HOLDEN SYSTEMS LIMITED,,companies_house,,,5661742,CB25 9AU,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,22/12/2005,31/03/2025,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+HORIZON DISCOVERY BIOSCIENCES LIMITED,,companies_house,,,5978215,CB25 9TL,Active,72110 - Research and experimental development on biotechnology,FULL,25/10/2006,29/12/2024,"8100 CAMBRIDGE RESEARCH PARK, BEACH DRIVE, WATERBEACH, CAMBRIDGE",True,,,False,False
+HORIZON DISCOVERY GROUP LIMITED,,companies_house,,,8921143,CB25 9TL,Active,72110 - Research and experimental development on biotechnology,FULL,04/03/2014,29/12/2024,"BUILDING 8100 CAMBRIDGE RESEARCH PARK, BEACH DRIVE, WATERBEACH, CAMBRIDGE",True,,,False,False
+HYBRID SOFTWARE HELIX LIMITED,,companies_house,,,2049413,CB23 6DW,Active,62012 - Business and domestic software development,FULL,26/08/1986,31/12/2024,"2ND FLOOR, BUILDING 2030, CAMBOURNE BUSINESS PARK, CAMBOURNE",True,,,False,False
+HYPERSPHERIC SOLUTIONS LIMITED,,companies_house,,,3947438,CB25 9AU,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,14/03/2000,31/03/2025,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+ICS COMPUTER SERVICES LIMITED,,companies_house,,,2127331,CB25 9AU,Active,62011 - Ready-made interactive leisure and entertainment software development,UNAUDITED ABRIDGED,01/05/1987,31/12/2024,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+ILLUMINA CAMBRIDGE LIMITED,,companies_house,,,3625145,CB21 6DF,Active,72110 - Research and experimental development on biotechnology,FULL,02/09/1998,29/12/2024,"19 GRANTA PARK, GREAT ABINGTON, CAMBRIDGE",True,,,False,False
+INCLUME LTD,,companies_house,,,11709250,CB1 1AH,Active,71111 - Architectural activities,UNAUDITED ABRIDGED,03/12/2018,31/12/2024,"UNIT 87, 23 KING STREET, CAMBRIDGE",True,,,False,False
+INEA UK LIMITED,,companies_house,,,10597443,CB4 0WZ,Active,71121 - Engineering design activities for industrial process and production,SMALL,02/02/2017,31/12/2024,"TENNYSON HOUSE, CAMBRIDGE BUSINESS PARK, CAMBRIDGE",True,,,False,False
+INSIGNIS ASSET MANAGEMENT LIMITED,,companies_house,,,9477376,CB4 0WS,Active,62012 - Business and domestic software development,FULL,09/03/2015,31/03/2025,"ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+INTELLICENE SOFTWARE UK LIMITED,,companies_house,,,12516929,CB1 2LA,Active,62090 - Other information technology service activities,SMALL,13/03/2020,31/12/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+INTELLIGENT FINGERPRINTING LIMITED,,companies_house,,,6409298,CB24 9NG,Active,72110 - Research and experimental development on biotechnology,SMALL,25/10/2007,30/06/2025,"14-17 EVOLUTION BUSINESS PARK MILTON ROAD, IMPINGTON, CAMBRIDGE",True,,,False,False
+INTERACT BIO LTD,,companies_house,,,15130530,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,11/09/2023,30/09/2024,"THE CAMBRIDGE PARTNERSHIP THE DOROTHY HODGKIN BUILDING, BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,,,False,False
+INTERNATIONAL TECHNEGROUP LIMITED,,companies_house,,,1364362,CB24 4UQ,Active,62012 - Business and domestic software development,AUDITED ABRIDGED,21/04/1978,31/03/2025,"4 CARISBROOKE COURT ANDERSON, ROAD BUCKINGWAY BUSINESS PARK, SWAVESEY CAMBRIDGE",True,,,False,False
+INTERNET WATCH FOUNDATION,,companies_house,,,3426366,CB24 9ZR,Active,62090 - Other information technology service activities,FULL,29/08/1997,31/03/2025,"DISCOVERY HOUSE CHIVERS WAY, HISTON, CAMBRIDGE",True,,,False,False
+IPV LIMITED,,companies_house,,,5168019,CB24 9AD,Active,"26309 - Manufacture of communication equipment other than telegraph, and telephone apparatus and equipment",SMALL,01/07/2004,31/12/2024,"COMPASS HOUSE CHIVERS WAY, HISTON, CAMBRIDGE",True,,,False,False
+IQGEO UK LIMITED,,companies_house,,,11559043,CB1 2JD,Active,62012 - Business and domestic software development,AUDIT EXEMPTION SUBSIDIARY,07/09/2018,31/12/2024,"20 STATION ROAD, , CAMBRIDGE",True,,,False,False
+IT AUXILIUM LTD,,companies_house,,,13996089,CB23 6JN,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,22/03/2022,31/03/2025,"9 CAXTON HOUSE, BROAD STREET, CAMBRIDGE",True,,,False,False
+ITOUCH LIMITED,,companies_house,,,3911278,CB4 0WZ,Active,62090 - Other information technology service activities,AUDIT EXEMPTION SUBSIDIARY,18/01/2000,31/12/2024,"MATRIX HOUSE, CAMBRIDGE BUSINESS PARK, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+JAMES LYNCH CONSULTING LTD,,companies_house,,,11496137,CB25 9AU,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,02/08/2018,31/08/2025,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+JOEL GUSTAFSSON CONSULTING LIMITED,,companies_house,,,12775594,CB2 1SJ,Active,71122 - Engineering related scientific and technical consulting activities,UNAUDITED ABRIDGED,28/07/2020,31/07/2025,"12C KINGS PARADE, , CAMBRIDGE",True,,,False,False
+JUSTWONTDIE LTD,,companies_house,,,12149769,CB22 5ES,Active,58210 - Publishing of computer games,UNAUDITED ABRIDGED,12/08/2019,31/12/2024,"63 HIGH STREET, LITTLE SHELFORD, CAMBRIDGE",True,,,False,False
+KANOOP LIMITED,,companies_house,,,4055393,CB24 3DQ,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,18/08/2000,31/03/2025,"4 OAKINGTON BUSINESS PARK, DRY DRAYTON ROAD, OAKINGTON, CAMBRIDGE",True,,,False,False
+KIGEN (UK) LIMITED,,companies_house,,,12780803,CB1 2GE,Active,62012 - Business and domestic software development,GROUP,30/07/2020,31/03/2025,"C/O MISHCON DE REYA, 4 STATION SQUARE, CAMBRIDGE",True,,,False,False
+KINGFISHER LABS LTD,,companies_house,,,12853841,CB1 2LG,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,02/09/2020,30/09/2025,"59 GWYDIR STREET, , CAMBRIDGE",True,,,False,False
+KOKREATE LTD,,companies_house,,,15804816,CB25 9AU,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,26/06/2024,30/04/2025,"7 QUY COURT, COLLIERS LANE, STOW-CUM-QUY",True,,,False,False
+L2S2 LIMITED,,companies_house,,,5780057,CB24 3DQ,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,12/04/2006,30/04/2025,"2A OAKINGTON BUSINESS PARK, DRY DRAYTON ROAD, OAKINGTON, CAMBRIDGE",True,,,False,False
+LAKE IMAGE SYSTEMS LIMITED,,companies_house,,,2961503,CB23 8TU,Active,26200 - Manufacture of computers and peripheral equipment,FULL,23/08/1994,31/03/2025,"DOMINO PRINTING SCIENCES PLC TRAFALGAR WAY, BAR HILL, CAMBRIDGE",True,,,False,False
+LEUCID BIO LTD,,companies_house,,,9331486,CB25 9PD,Active,72110 - Research and experimental development on biotechnology,SMALL,27/11/2014,30/06/2025,"BUILDING 1000 BEACH DRIVE, WATERBEACH, CAMBRIDGE",True,,,False,False
+LEVIDIAN NANOSYSTEMS LIMITED,,companies_house,,,8186993,CB5 8HY,Active,72190 - Other research and experimental development on natural sciences and engineering,MEDIUM,21/08/2012,31/12/2024,"17 MERCERS ROW, , CAMBRIDGE",True,,,False,False
+LFM SOFTWARE LIMITED,,companies_house,,,4256152,CB3 0HB,Active,62090 - Other information technology service activities,SMALL,20/07/2001,31/12/2024,"HIGH CROSS, MADINGLEY ROAD, CAMBRIDGE",True,,,False,False
+LIGHTCAST DISCOVERY LTD,,companies_house,,,11830666,CB3 0FA,Active,72110 - Research and experimental development on biotechnology,GROUP,15/02/2019,31/12/2024,"BROERS BUILDING, 21 JJ THOMSON AVENUE, CAMBRIDGE",True,,,False,False
+LINARO LIMITED,,companies_house,,,7180318,CB22 7GG,Active,58290 - Other software publishing,GROUP,05/03/2010,30/09/2024,"HARSTON MILL, HARSTON, CAMBRIDGE",True,,,False,False
+LOTTIELAB LTD,,companies_house,,,13466789,CB1 2LA,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,21/06/2021,30/06/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+LOWRISC C.I.C.,,companies_house,,,9272283,CB2 1GE,Active,26200 - Manufacture of computers and peripheral equipment,SMALL,20/10/2014,31/10/2024,"7 HILLS ROAD, , CAMBRIDGE",True,,,False,False
+LUCIDA MEDICAL LTD,,companies_house,,,12320979,CB4 2HY,Active,72110 - Research and experimental development on biotechnology,UNAUDITED ABRIDGED,19/11/2019,31/03/2025,"ALLIA FUTURE BUSINESS CENTRE, KING'S HEDGES ROAD, CAMBRIDGE",True,,,False,False
+LUMINANCE TECHNOLOGIES LTD,,companies_house,,,9857705,CB1 2JD,Active,62012 - Business and domestic software development,GROUP,05/11/2015,31/12/2024,"5TH FLOOR, 20 STATION ROAD, CAMBRIDGE",True,,,False,False
+MAPLESOFT EUROPE LIMITED,,companies_house,,,8613855,CB22 4QH,Active,62090 - Other information technology service activities,SMALL,17/07/2013,31/12/2024,"THE OFFICERS' MESS, ROYSTON ROAD, DUXFORD",True,,,False,False
+MATERIALS NEXUS LIMITED,,companies_house,,,13057449,CB1 2LA,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,02/12/2020,31/12/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+MEDIMMUNE LIMITED,,companies_house,,,2451177,CB2 0AA,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,11/12/1989,31/12/2024,"1 FRANCIS CRICK AVENUE, CAMBRIDGE BIOMEDICAL CAMPUS, CAMBRIDGE",True,,,False,False
+MEDTECH INTERNATIONAL LIMITED,,companies_house,,,7182957,CB4 2HY,Active,72110 - Research and experimental development on biotechnology,UNAUDITED ABRIDGED,09/03/2010,31/03/2025,"ALLIA FUTURE BUSINESS CENTRE, KINGS HEDGES ROAD, CAMBRIDGE",True,,,False,False
+METAIL LIMITED,,companies_house,,,6442935,CB1 2JD,Active,62012 - Business and domestic software development,SMALL,03/12/2007,31/12/2024,"22 STATION ROAD, , CAMBRIDGE",True,,,False,False
+METEOR INKJET LIMITED,,companies_house,,,9397756,CB22 7GG,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,20/01/2015,31/12/2024,"HARSTON MILL, ROYSTON ROAD, HARSTON",True,,,False,False
+METRION BIOSCIENCES LTD,,companies_house,,,9669815,CB21 6AL,Active,72110 - Research and experimental development on biotechnology,SMALL,03/07/2015,31/12/2024,"FIRST FLOOR, BUILDING 2 GRANTA CENTRE, GRANTA PARK, GREAT ABINGTON, CAMBRIDGE",True,,,False,False
+MICROSOFT RESEARCH LIMITED,,companies_house,,,3369488,CB1 2FB,Active,62090 - Other information technology service activities,FULL,12/05/1997,30/06/2024,"21 STATION ROAD, , CAMBRIDGE",True,,,False,False
+MOMENTOUS THERAPEUTICS LTD,,companies_house,,,14150840,CB2 1PH,Active,72110 - Research and experimental development on biotechnology,SMALL,06/06/2022,31/12/2024,"BOTANIC HOUSE, 100 HILLS ROAD, CAMBRIDGE",True,,,False,False
+MOVABLE TYPE LIMITED,,companies_house,,,2199624,CB1 2PR,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,27/11/1987,31/03/2025,"31 YORK TERRACE, CAMBRIDGE, CAMBRIDGESHIRE",True,,,False,False
+MPB INDUSTRIES LIMITED,,companies_house,,,4966728,CB4 1TF,Active,26512 - Manufacture of electronic industrial process control equipment,AUDIT EXEMPTION SUBSIDIARY,17/11/2003,30/04/2025,"BEACON HOUSE, NUFFIELD ROAD, CAMBRIDGE",True,,,False,False
+NAITIVE TECHNOLOGIES LIMITED,,companies_house,,,11145951,CB1 2GE,Active,62012 - Business and domestic software development,SMALL,11/01/2018,31/01/2025,"C/O MISHCON DE REYA, FOUR STATION SQUARE, CAMBRIDGE",True,,,False,False
+NATIONAL INSTITUTE OF AGRICULTURAL BOTANY TRUST,,companies_house,,,7823588,CB3 0LE,Active,72110 - Research and experimental development on biotechnology,SMALL,26/10/2011,31/03/2024,"NIAB, 93 LAWRENCE WEAVER ROAD, CAMBRIDGE",True,,,False,False
+NETCRACKER TECHNOLOGY EMEA LIMITED,,companies_house,,,2412849,CB24 9ZR,Active,62020 - Information technology consultancy activities,FULL,11/08/1989,31/03/2025,"ENDURANCE HOUSE GROUND FLOOR, VISION PARK, HISTON",True,,,False,False
+NETMORE IOT SOLUTIONS LTD,,companies_house,,,12211023,CB1 1HW,Active,62020 - Information technology consultancy activities,SMALL,17/09/2019,31/12/2024,"10 WELLINGTON STREET, , CAMBRIDGE",True,,,False,False
+NEW VISION GROUP LIMITED,,companies_house,,,5196236,CB3 0NA,Active,62020 - Information technology consultancy activities,SMALL,03/08/2004,31/12/2024,"GROUND FLOOR, 3 WELLBROOK COURT, GIRTON, CAMBRIDGE",True,,,False,False
+NODES & LINKS LIMITED,,companies_house,,,11388602,CB1 2LA,Active,62012 - Business and domestic software development,SMALL,30/05/2018,31/12/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+NOVOGENE (UK) COMPANY LIMITED,,companies_house,,,9353226,CB4 0FW,Active,72110 - Research and experimental development on biotechnology,FULL,12/12/2014,31/12/2024,"2ND FLOOR, BIO-INNOVATION CENTRE 25 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,,,False,False
+NUCLERA LTD,,companies_house,,,8663936,CB24 9NP,Active,72110 - Research and experimental development on biotechnology,GROUP,27/08/2013,31/12/2024,"ONE VISION PARK STATION ROAD, IMPINGTON, CAMBRIDGE",True,,,False,False
+NXERA PHARMA UK LIMITED,,companies_house,,,6267989,CB21 6DG,Active,72110 - Research and experimental development on biotechnology,FULL,04/06/2007,31/12/2024,"GRANTA PARK, GREAT ABINGTON, CAMBRIDGE",True,,,False,False
+OCEAN SURVEY SERVICES LIMITED,,companies_house,,,10493465,CB23 1ND,Active,71129 - Other engineering activities,UNAUDITED ABRIDGED,23/11/2016,30/11/2024,"16 THE ELMS, , HASLINGFIELD",True,,,False,False
+OPEN SOURCE MANAGEMENT LTD,,companies_house,,,8111804,CB4 0WS,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,19/06/2012,30/06/2025,"ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+OPTIBRIUM LIMITED,,companies_house,,,6715106,CB25 9GL,Active,62012 - Business and domestic software development,SMALL,03/10/2008,31/12/2024,"F10-13 BLENHEIM HOUSE, CAMBRIDGE INNOVATION PARK DENNY END ROAD, WATERBEACH, CAMBRIDGE",True,,,False,False
+ORBITA CONSULTANTS LTD,,companies_house,,,11970579,CB4 2XQ,Active,71122 - Engineering related scientific and technical consulting activities,UNAUDITED ABRIDGED,30/04/2019,30/04/2025,"37 CENTRAL AVENUE, , CAMBRIDGE",True,,,False,False
+ORCA SECURITY UK LTD,,companies_house,,,13410414,CB3 0QH,Active,62020 - Information technology consultancy activities,SMALL,20/05/2021,31/12/2024,"CAMBRIDGE HOUSE CAMBORO BUSINESS PARK, GIRTON, CAMBRIDGE",True,,,False,False
+ORION INNOVATION SOLUTIONS UK LIMITED,,companies_house,,,4101359,CB1 2LA,Active,58290 - Other software publishing,SMALL,30/10/2000,31/12/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+OSISOFT (UK) LIMITED,,companies_house,,,7116761,CB3 0HB,Active,62090 - Other information technology service activities,FULL,05/01/2010,31/12/2024,"HIGH CROSS, MADINGLEY ROAD, CAMBRIDGE",True,,,False,False
+OSPREY CONSULTING SERVICES LIMITED,,companies_house,,,6034579,CB22 7GG,Active,71122 - Engineering related scientific and technical consulting activities,SMALL,20/12/2006,31/12/2024,"HARSTON MILL ROYSTON ROAD, HARSTON, CAMBRIDGE",True,,,False,False
+OVAL MEDICAL TECHNOLOGIES LIMITED,,companies_house,,,6810585,CB1 2JH,Active,72200 - Research and experimental development on social sciences and humanities,AUDIT EXEMPTION SUBSIDIARY,05/02/2009,31/12/2024,"50/60 STATION ROAD, , CAMBRIDGE",True,,,False,False
+OXCITAS LIMITED,,companies_house,,,10874441,CB1 2GE,Active,72110 - Research and experimental development on biotechnology,UNAUDITED ABRIDGED,19/07/2017,31/07/2024,"C/O MISHCON DE REYA, FOUR STATION SQUARE, CAMBRIDGE",True,,,False,False
+P & Q INTERNATIONAL LTD,,companies_house,,,1413728,CB24 6WZ,Active,62012 - Business and domestic software development,FULL,07/02/1979,30/11/2023,"MILTON HALL, ELY ROAD, MILTON",True,,,False,False
+PAAPRI BUSINESS TECHNOLOGIES UK LTD,,companies_house,,,12131937,CB4 3SA,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,31/07/2019,31/12/2024,"134 PERSE WAY, , CAMBRIDGE",True,,,False,False
+PANDEIA THERAPEUTICS LIMITED,,companies_house,,,11463856,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,13/07/2018,31/12/2024,"THE CAMBRIDGE PARTNERSHIP THE DOROTHY HODGKIN BLDG BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,,,False,False
+PATIENTS KNOW BEST LIMITED,,companies_house,,,6517382,CB4 0WS,Active,62012 - Business and domestic software development,SMALL,28/02/2008,31/12/2024,"ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+PDSVISION CAMBRIDGE LIMITED,,companies_house,,,2720949,CB4 3BP,Active,62090 - Other information technology service activities,SMALL,08/06/1992,31/12/2024,"CHURCH FARM BARN 15 HIGH STREET, LONGSTANTON, CAMBRIDGE",True,,,False,False
+PEARLBAY IT LTD,,companies_house,,,15018622,CB22 4RX,Active,62090 - Other information technology service activities,UNAUDITED ABRIDGED,21/07/2023,31/07/2024,"47 BLAKELAND HILL, DUXFORD, CAMBRIDGE",True,,,False,False
+PERFECT BALANCE BIO LIMITED,,companies_house,,,12885832,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,17/09/2020,30/09/2024,"C/O THE CAMBRIDGE PARTNERSHIP LTD, THE DOROTHY HODGKIN BUILDING, BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,,,False,False
+PETALION THERAPEUTICS LIMITED,,companies_house,,,15363420,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,20/12/2023,30/06/2025,"CAMBRIDGE PARTNERSHIP, DOROTHY HODGKIN BUILDING BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,,,False,False
+PHIXFLOW LTD,,companies_house,,,5065889,CB4 0WS,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,08/03/2004,31/03/2025,"ST. JOHNS INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+PHOTONIC SCIENCE & ENGINEERING LTD,,companies_house,,,11533743,CB4 0DL,Active,"26511 - Manufacture of electronic measuring, testing etc. equipment, not for industrial process control",SMALL,23/08/2018,31/12/2024,"125 COWLEY ROAD, CAMBRIDGE COMMERCIAL PARK, CAMBRIDGE",True,,,False,False
+PIXEL POWER LIMITED,,companies_house,,,2154212,CB1 3HD,Active,62090 - Other information technology service activities,SMALL,11/08/1987,30/06/2024,"UNIT 5 COLLEGE PARK, COLDHAMS LANE, CAMBRIDGE",True,,,False,False
+PODIUM BIO LIMITED,,companies_house,,,13537907,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,29/07/2021,31/08/2024,"THE CAMBRIDGE PARTNERSHIP THE DOROTHY HODGKIN BUILDING, BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,,,False,False
+POSTJET SYSTEMS LIMITED,,companies_house,,,5743000,CB23 8TU,Active,26200 - Manufacture of computers and peripheral equipment,FULL,15/03/2006,31/03/2025,"DOMINO TRAFALGAR WAY, BAR HILL, CAMBRIDGE",True,,,False,False
+POWER INTEGRATIONS (EUROPE) LIMITED,,companies_house,,,2671412,CB4 1DL,Active,62020 - Information technology consultancy activities,SMALL,16/12/1991,31/12/2024,"1ST FLOOR RADIO HOUSE, ST. ANDREWS ROAD, CAMBRIDGE",True,,,False,False
+POWER INTEGRATIONS UK LIMITED,,companies_house,,,4025031,CB4 1DL,Active,26110 - Manufacture of electronic components,SMALL,03/07/2000,31/12/2024,"1ST FLOOR RADIO HOUSE, ST. ANDREWS ROAD, CAMBRIDGE",True,,,False,False
+PPD GLOBAL LTD,,companies_house,,,1564604,CB21 6GQ,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,29/05/1981,31/12/2024,"GRANTA PARK, GREAT ABINGTON, CAMBRIDGE",True,,,False,False
+PRAGMATIC SEMICONDUCTOR LIMITED,,companies_house,,,7423954,CB4 0WH,Active,26110 - Manufacture of electronic components,FULL,29/10/2010,31/12/2024,"400 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,,,False,False
+PRIMEXEON LIMITED,,companies_house,,,8001539,CB24 9LQ,Active,62090 - Other information technology service activities,UNAUDITED ABRIDGED,22/03/2012,31/03/2025,"4 STATION ROAD, HISTON, CAMBRIDGE",True,,,False,False
+QUALCOMM AUTO LTD.,,companies_house,,,15807974,CB4 0WZ,Active,62012 - Business and domestic software development,FULL,28/06/2024,29/09/2024,"CHURCHILL HOUSE CAMBRIDGE BUSINESS PARK, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+QUIBIM LIMITED,,companies_house,,,14023736,CB4 0GA,Active,62012 - Business and domestic software development,SMALL,04/04/2022,31/12/2024,"THE BRADFIELD CENTRE 184 CAMBRIDGE SCIENCE PARK, MILTON, CAMBRIDGE",True,,,False,False
+R H PARTNERSHIP ARCHITECTS LIMITED,,companies_house,,,2071013,CB4 1ER,Active,71111 - Architectural activities,SMALL,05/11/1986,30/04/2025,"94 CHESTERTON ROAD, CAMBRIDGE, ",True,,,False,False
+RAND EUROPE COMMUNITY INTEREST COMPANY,,companies_house,,,2728021,CB2 8BF,Active,72200 - Research and experimental development on social sciences and humanities,GROUP,02/07/1992,30/09/2024,"EASTBROOK, SHAFTESBURY ROAD, CAMBRIDGE",True,,,False,False
+RAND EUROPE UK LTD,,companies_house,,,4132205,CB2 8BF,Active,72200 - Research and experimental development on social sciences and humanities,SMALL,28/12/2000,30/09/2024,"EASTBROOK, SHAFTESBURY ROAD, CAMBRIDGE",True,,,False,False
+RANPLAN WIRELESS NETWORK DESIGN LTD,,companies_house,,,5766973,CB23 3UY,Active,62012 - Business and domestic software development,SMALL,03/04/2006,31/12/2024,"UPPER PENDRILL COURT ERMINE STREET NORTH, PAPWORTH EVERARD, CAMBRIDGE",True,,,False,False
+RAPIERE SOFTWARE LIMITED,,companies_house,,,8722450,CB1 1BH,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,08/10/2013,31/03/2024,"WELLINGTON HOUSE, EAST ROAD, CAMBRIDGE",True,,,False,False
+REALVNC LIMITED,,companies_house,,,4446945,CB4 0WS,Active,62012 - Business and domestic software development,FULL,24/05/2002,31/12/2024,"EDINBURGH HOUSE ST JOHN'S INNOVATION PARK, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+RECYCLE BIO LIMITED,,companies_house,,,15236618,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,25/10/2023,31/03/2025,"THE CAMBRIDGE PARTNERSHIP THE DOROTHY HODGKIN BUILDING, BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,,,False,False
+RED GATE SOFTWARE GROUP LIMITED,,companies_house,,,10343672,CB4 0XB,Active,62012 - Business and domestic software development,GROUP,24/08/2016,31/12/2024,"CAVENDISH HOUSE, CAMBRIDGE BUSINESS PARK, CAMBRIDGE",True,,,False,False
+RED GATE SOFTWARE LIMITED,,companies_house,,,3857576,CB4 0XB,Active,62012 - Business and domestic software development,FULL,12/10/1999,31/12/2024,"CAVENDISH HOUSE, CAMBRIDGE BUSINESS PARK, CAMBRIDGE",True,,,False,False
+REVVITY DISCOVERY LIMITED,,companies_house,,,5363294,CB25 9TL,Active,72110 - Research and experimental development on biotechnology,FULL,14/02/2005,29/12/2024,"8100 CAMBRIDGE RESEARCH PARK, WATERBEACH, CAMBRIDGE",True,,,False,False
+RIGOR PRECISION ENGINEERS LTD,,companies_house,,,11285834,CB25 9AU,Active,71129 - Other engineering activities,UNAUDITED ABRIDGED,03/04/2018,30/04/2025,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+RXBIOLOGICS LIMITED,,companies_house,,,10590235,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,30/01/2017,30/11/2024,"THE DOROTHY HODGKIN BUILDING BABRAHAM RESEARCH CAMPUS, BABRAHAM, CAMBRIDGE",True,,,False,False
+SAREUM HOLDINGS PLC,,companies_house,,,5147578,CB22 3FX,Active,72110 - Research and experimental development on biotechnology,GROUP,07/06/2004,30/06/2025,"UNIT 2A LANGFORD ARCH LONDON ROAD, PAMPISFORD, CAMBRIDGE",True,,,False,False
+SAREUM LIMITED,,companies_house,,,4863659,CB22 3FX,Active,72110 - Research and experimental development on biotechnology,FULL,12/08/2003,30/06/2025,"UNIT 2A LANGFORD ARCH LONDON ROAD, PAMPISFORD, CAMBRIDGE",True,,,False,False
+SARVESH IT SOLUTIONS LTD,,companies_house,,,11492193,CB23 6AF,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,31/07/2018,31/07/2024,"45 JEAVONS LANE, GREAT CAMBOURNE, CAMBRIDGE",True,,,False,False
+SCIENTIFIC COMMITTEE ON ANTARCTIC RESEARCH,,companies_house,,,6564642,CB2 1ER,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,14/04/2008,31/12/2024,"SCAR SCOTT POLAR RESEARCH INSTITUTE, LENSFIELD ROAD, CAMBRIDGE",True,,,False,False
+SCIENTIFIC DIGITAL IMAGING LIMITED,,companies_house,,,2384355,CB4 1TF,Active,26110 - Manufacture of electronic components,UNAUDITED ABRIDGED,15/05/1989,30/04/2025,"C/O SYNOPTICS LTD, BEACON HOUSE, NUFFIELD ROAD",True,,,False,False
+SECURE THINGZ LIMITED,,companies_house,,,9193626,CB2 9FF,Active,62012 - Business and domestic software development,FULL,29/08/2014,31/12/2024,"HUDSON HOUSE MARIS LANE, TRUMPINGTON, CAMBRIDGE",True,,,False,False
+SELVITA LIMITED,,companies_house,,,9553918,CB2 1GE,Active,72110 - Research and experimental development on biotechnology,SMALL,21/04/2015,31/12/2024,"NINE, HILLS ROAD, CAMBRIDGE",True,,,False,False
+SEPURA LIMITED,,companies_house,,,4353801,CB25 9TL,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,16/01/2002,31/12/2024,"9000 CAMBRIDGE RESEARCH PARK, BEACH DRIVE, WATERBEACH, CAMBRIDGE",True,,,False,False
+SIDEQUEST NINJA LIMITED,,companies_house,,,12239318,CB25 9AU,Active,58210 - Publishing of computer games,UNAUDITED ABRIDGED,02/10/2019,31/10/2025,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+SILICON MICROGRAVITY LIMITED,,companies_house,,,9221340,CB25 9GL,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,16/09/2014,31/12/2024,"G2 & G3 BLENHEIM HOUSE CAMBRIDGE INNOVATION PARK, WATERBEACH, CAMBRIDGE",True,,,False,False
+SILVERWELL ENERGY LIMITED,,companies_house,,,4109347,CB3 0QH,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,13/11/2000,31/12/2024,"CAMBRIDGE HOUSE CAMBORO BUSINESS PARK, GIRTON, CAMBRIDGE",True,,,False,False
+SILVERWELL TECHNOLOGY LIMITED,,companies_house,,,4109119,CB3 0QH,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,13/11/2000,31/12/2024,"CAMBRIDGE HOUSE CAMBORO BUSINESS PARK, GIRTON, CAMBRIDGE",True,,,False,False
+SIMPRINTS TECHNOLOGY LIMITED,,companies_house,,,8835431,CB5 8HL,Active,62090 - Other information technology service activities,SMALL,07/01/2014,31/12/2024,"26 RIVERSIDE, , CAMBRIDGE",True,,,False,False
+SITALA BIO LTD,,companies_house,,,13375361,CB22 5LD,Active,72110 - Research and experimental development on biotechnology,SMALL,04/05/2021,31/12/2024,"UNIT D8 GRAIN HOUSE, MILL COURT, GREAT SHELFORD, CAMBRIDGE",True,,,False,False
+SKIN ANALYTICS LTD,,companies_house,,,7919560,CB1 2LA,Active,62012 - Business and domestic software development,GROUP,23/01/2012,31/03/2025,"SALISBURY HOUSE, 2-3 SALISBURY VILLAS, CAMBRIDGE",True,,,False,False
+SMART OWL SOFTWARE LIMITED,,companies_house,,,6582548,CB5 8DD,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,01/05/2008,31/05/2025,"56 MAIDS CAUSEWAY, , CAMBRIDGE",True,,,False,False
+SMARTVAULT SOFTWARE LIMITED,,companies_house,,,14670587,CB22 3FT,Active,62012 - Business and domestic software development,AUDIT EXEMPTION SUBSIDIARY,17/02/2023,31/12/2024,"SUITE 8 THE WORKS 20 WEST STREET, UNITY CAMPUS, PAMPISFORD, CAMBRIDGE",True,,,False,False
+SMC PHARMA SERVICES LTD,,companies_house,,,10446752,CB1 2JH,Active,72200 - Research and experimental development on social sciences and humanities,GROUP,26/10/2016,31/12/2024,"50/60 STATION ROAD, , CAMBRIDGE",True,,,False,False
+SMG TOPCO LIMITED,,companies_house,,,13582754,CB25 9GL,Active,26110 - Manufacture of electronic components,SMALL,24/08/2021,31/12/2024,"SUITE G3 BLENHEIM HOUSE CAMBRIDGE INNOVATION PARK DENNY END ROAD, WATERBEACH, CAMBRIDGE",True,,,False,False
+SNAP VISION LTD,,companies_house,,,12411246,CB25 9PD,Active,71129 - Other engineering activities,SMALL,17/01/2020,28/02/2025,"BUILDING 1000, CAMBRIDGE RESEARCH PARK, CAMBRIDGE",True,,,False,False
+SNELL DAVID CAMBRIDGE LTD,,companies_house,,,10707251,CB22 4LT,Active,71111 - Architectural activities,UNAUDITED ABRIDGED,04/04/2017,31/03/2025,"SCUTCHES BARN 17, HIGH STREET, CAMBRIDGE",True,,,False,False
+SPACE HEROES LIMITED,,companies_house,,,9425439,CB4 0FP,Active,62090 - Other information technology service activities,SMALL,06/02/2015,31/12/2024,"26 SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,,,False,False
+SPACEBRIDGE (EMEA) LTD,,companies_house,,,4229560,CB25 9AU,Active,26301 - Manufacture of telegraph and telephone apparatus and equipment,SMALL,06/06/2001,31/12/2024,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+SPRINGBOARD PRO LTD.,,companies_house,,,8619684,CB4 0WS,Active,71122 - Engineering related scientific and technical consulting activities,SMALL,22/07/2013,31/12/2024,"ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+SQUIRRELISTIC LTD,,companies_house,,,8982114,CB24 4TA,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,07/04/2014,30/04/2025,"24 VERMUYDEN WAY, FEN DRAYTON, CAMBRIDGE",True,,,False,False
+STEMCELL TECHNOLOGIES UK LTD,,companies_house,,,8916044,CB25 9TL,Active,72110 - Research and experimental development on biotechnology,GROUP,27/02/2014,30/06/2024,"BUILDING 7100, CAMBRIDGE RESEARCH PARK BEACH DRIVE, WATERBEACH, CAMBRIDGE",True,,,False,False
+SUMACH UK LIMITED,,companies_house,,,6156102,CB25 9AU,Active,72190 - Other research and experimental development on natural sciences and engineering,UNAUDITED ABRIDGED,13/03/2007,30/03/2024,"7 QUY COURT COLLIERS LANE, STOW-CUM-QUY, CAMBRIDGE",True,,,False,False
+SYSKIT UK LIMITED,,companies_house,,,14333305,CB23 4RY,Active,62012 - Business and domestic software development,GROUP,02/09/2022,31/12/2024,"UNIT 5 AVENUE BUSINESS PARK BROCKLEY ROAD, ELSWORTH, CAMBRIDGE",True,,,False,False
+TECHNOLOGY BLUEPRINT LIMITED,,companies_house,,,3301980,CB1 2LA,Active,62020 - Information technology consultancy activities,SMALL,14/01/1997,31/12/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+TEXTMAGIC LIMITED,,companies_house,,,5286521,CB1 2LA,Active,58290 - Other software publishing,SMALL,15/11/2004,31/12/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE, CAMBRIDGESHIRE",True,,,False,False
+THE BABRAHAM INSTITUTE,,companies_house,,,3011737,CB22 3AT,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,19/01/1995,31/03/2025,"BABRAHAM HALL, BABRAHAM, CAMBRIDGE",True,,,False,False
+THE MAX PERUTZ FUND,,companies_house,,,6876186,CB2 0QH,Active,72110 - Research and experimental development on biotechnology,SMALL,14/04/2009,30/09/2024,"MRC LABORATORY OF MOLECULAR BIOLOGY FRANCIS CRICK AVENUE, CAMBRIDGE BIOMEDICAL CAMPUS, CAMBRIDGE",True,,,False,False
+THE TEST HOUSE (CAMBRIDGE) LIMITED,,companies_house,,,2513984,CB21 6AL,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,20/06/1990,31/12/2024,"GRANTA PARK, GREAT ABINGTON, CAMBRIDGE",True,,,False,False
+TOKENOVATE LIMITED,,companies_house,,,14042289,CB1 2LA,Active,62090 - Other information technology service activities,SMALL,12/04/2022,31/12/2024,"C/O PEM SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+TPG SERVICES LIMITED,,companies_house,,,2849800,CB22 7GG,Active,62020 - Information technology consultancy activities,FULL,01/09/1993,31/12/2024,"HARSTON MILL ROYSTON ROAD, HARSTON, CAMBRIDGE",True,,,False,False
+TRAFFIC INTERNATIONAL,,companies_house,,,3785518,CB2 3QZ,Active,72200 - Research and experimental development on social sciences and humanities,FULL,09/06/1999,30/06/2024,"THE DAVID ATTENBOROUGH BUILDING, PEMBROKE STREET, CAMBRIDGE",True,,,False,False
+TREASURE DATA (UK) LIMITED,,companies_house,,,12779869,CB1 1BH,Active,62012 - Business and domestic software development,SMALL,30/07/2020,31/03/2025,"WELLINGTON HOUSE, EAST ROAD, CAMBRIDGE",True,,,False,False
+TRIPLE HELICAL PEPTIDES LTD,,companies_house,,,15029752,CB22 5DU,Active,72190 - Other research and experimental development on natural sciences and engineering,UNAUDITED ABRIDGED,26/07/2023,31/03/2025,"21 HAWTHORNE ROAD, STAPLEFORD, CAMBRIDGE",True,,,False,False
+TT SECURE PLATFORM LIMITED,,companies_house,,,15492022,CB4 0WS,Active,62012 - Business and domestic software development,FULL,15/02/2024,31/12/2024,"ST. JOHNS INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+U-BLOX LUTON LIMITED,,companies_house,,,5921599,CB23 6DW,Active,72190 - Other research and experimental development on natural sciences and engineering,SMALL,01/09/2006,31/12/2024,"2020 CAMBOURNE BUSINESS PARK, CAMBOURNE, CAMBRIDGE",True,,,False,False
+UBISENSE LIMITED,,companies_house,,,4489603,CB4 1DL,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,18/07/2002,31/12/2024,"ST. ANDREW'S HOUSE ST. ANDREW'S ROAD, CHESTERTON, CAMBRIDGE",True,,,False,False
+V R DIGITECH LTD,,companies_house,,,6522250,CB1 7ST,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,04/03/2008,31/03/2025,"62 HOLBROOK ROAD, , CAMBRIDGE",True,,,False,False
+VERNALIS (R&D) LIMITED,,companies_house,,,1985479,CB21 6GB,Active,72110 - Research and experimental development on biotechnology,FULL,04/02/1986,31/12/2024,"GRANTA PARK, GREAT ABINGTON, CAMBRIDGE",True,,,False,False
+VIMELA THERAPEUTICS LIMITED,,companies_house,,,13611487,CB22 3FH,Active,72110 - Research and experimental development on biotechnology,SMALL,09/09/2021,31/12/2024,"THE CAMBRIDGE PARTNERSHIP THE DOROTHY HODGKIN BUILDING, BABRAHAM RESEARCH CAMPUS, CAMBRIDGE",True,,,False,False
+VISIATIV SOLUTIONS UK LIMITED,,companies_house,,,4387850,CB24 9PT,Active,62090 - Other information technology service activities,SMALL,06/03/2002,31/12/2024,"1 PIONEER COURT, CHIVERS WAY, HISTON",True,,,False,False
+VIVID ADAPT LTD,,companies_house,,,9106393,CB4 0WS,Active,62020 - Information technology consultancy activities,UNAUDITED ABRIDGED,27/06/2014,30/06/2024,"ST JOHN'S INNOVATION CENTRE, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+WELDING INSTITUTE(THE),,companies_house,,,405555,CB21 6AL,Active,72190 - Other research and experimental development on natural sciences and engineering,GROUP,06/03/1946,31/12/2024,"GRANTA PARK, GREAT ABINGTON, CAMBRIDGE",True,,,False,False
+WHATFIX LIMITED,,companies_house,,,11996971,CB1 2LA,Active,62012 - Business and domestic software development,SMALL,15/05/2019,31/03/2025,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+WORLD SUGAR RESEARCH ORGANISATION LIMITED,,companies_house,,,1355487,CB1 2LA,Active,72190 - Other research and experimental development on natural sciences and engineering,FULL,02/03/1978,31/12/2024,"SALISBURY HOUSE, STATION ROAD, CAMBRIDGE",True,,,False,False
+XAAR PLC,,companies_house,,,3320972,CB25 9PE,Active,26110 - Manufacture of electronic components,GROUP,19/02/1997,31/12/2024,"3950 CAMBRIDGE RESEARCH PARK, WATERBEACH, CAMBRIDGE",True,,,False,False
+XAAR TECHNOLOGY LIMITED,,companies_house,,,2469592,CB25 9PE,Active,72190 - Other research and experimental development on natural sciences and engineering,AUDIT EXEMPTION SUBSIDIARY,13/02/1990,31/12/2024,"3950 CAMBRIDGE RESEARCH PARK, WATERBEACH, CAMBRIDGE",True,,,False,False
+XANTHOS LIMITED,,companies_house,,,4457299,CB4 0WS,Active,62020 - Information technology consultancy activities,AUDIT EXEMPTION SUBSIDIARY,10/06/2002,31/12/2024,"UNIT 2.09, ST JOHNS INNOVATION CENTRE,, COWLEY ROAD, CAMBRIDGE",True,,,False,False
+XILINX TECHNOLOGY LTD,,companies_house,,,4441386,CB4 0AB,Active,62090 - Other information technology service activities,FULL,17/05/2002,28/12/2024,"UNIT 196 CAMBRIDGE SCIENCE PARK, MILTON ROAD, CAMBRIDGE",True,,,False,False
+YAGRO LTD,,companies_house,,,9752813,CB4 0DS,Active,62012 - Business and domestic software development,SMALL,27/08/2015,31/12/2023,"PLATINUM BUILDING COWLEY ROAD, ST JOHN'S INNOVATION PARK, CAMBRIDGE",True,,,False,False
+ZIPHII LIMITED,,companies_house,,,11337524,CB4 0GA,Active,62012 - Business and domestic software development,UNAUDITED ABRIDGED,30/04/2018,30/04/2025,"184 CAMBRIDGE SCIENCE PARK, MILTON ROAD, MILTON",True,,,False,False

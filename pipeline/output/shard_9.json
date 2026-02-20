@@ -1,0 +1,787 @@
+{
+  "careers": [
+    {
+      "company_name": "Supersense",
+      "company_url": "https://www.supersense.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Quantios",
+      "company_url": "https://www.quantios.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Waymap",
+      "company_url": "https://www.waymap.com",
+      "careers_url": "https://www.waymap.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {"title": "Product Designer", "type": "full-time", "location": "Cambridge"},
+        {"title": "Senior Full Stack Engineer", "type": "full-time", "location": "Cambridge"}
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.waymap.com/careers",
+      "careers_summary": "Accessibility mapping company actively hiring for engineering and design roles."
+    },
+    {
+      "company_name": "Infersens Ltd",
+      "company_url": "https://www.infersens.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "All Focal",
+      "company_url": "https://www.allfocal.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Cinema8",
+      "company_url": "https://www.cinema8.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "iot747",
+      "company_url": "https://www.iot747.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Forefront",
+      "company_url": "https://www.forefront.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Phantom Technology Ltd",
+      "company_url": "https://www.phantomtechnology.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Cambridge Kinetics",
+      "company_url": "https://www.cambridgekinetics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Pilot Creative Ltd",
+      "company_url": "https://www.pilotcreative.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "HDR Nova",
+      "company_url": "https://www.hdrnova.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Tebira Ltd",
+      "company_url": "https://www.tebira.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Virtual Arts",
+      "company_url": "https://www.virtualarts.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "LispWorks",
+      "company_url": "https://www.lispworks.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Green Custard Ltd",
+      "company_url": "https://www.greencustard.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Ellexus",
+      "company_url": "https://www.ellexus.com",
+      "careers_url": "https://www.ellexus.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {"title": "Software Engineer", "type": "full-time", "location": "Cambridge"}
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.ellexus.com/careers",
+      "careers_summary": "Software tools provider with developer tools focus actively recruiting."
+    },
+    {
+      "company_name": "Commsonic Ltd",
+      "company_url": "https://www.commsonic.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Archipelago Technology",
+      "company_url": "https://www.archipelagotechnology.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "ACX Instruments Ltd",
+      "company_url": "https://www.acxinstruments.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "VNC Automotive Ltd",
+      "company_url": "https://www.vncautomotive.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Glenworth Associates Ltd",
+      "company_url": "https://www.glenworthassociates.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Deyton Bell",
+      "company_url": "https://www.deytonbell.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Sookio",
+      "company_url": "https://www.sookio.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Linaud Health",
+      "company_url": "https://www.linaudhealth.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Enterprise East",
+      "company_url": "https://www.enterpriseeast.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "Netmatters Ltd",
+      "company_url": "https://www.netmatters.com",
+      "careers_url": "https://www.netmatters.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {"title": "Web Developer", "type": "full-time", "location": "Cambridge"},
+        {"title": "Digital Marketing Executive", "type": "full-time", "location": "Cambridge"}
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.netmatters.com/careers",
+      "careers_summary": "Digital agency offering web development and marketing services with active hiring."
+    },
+    {
+      "company_name": "Bensasson & Chalmers Ltd",
+      "company_url": "https://www.bensassonchalmers.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "BioMed Realty",
+      "company_url": "https://www.biomedrealty.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "TWI",
+      "company_url": "https://www.twi-global.com",
+      "careers_url": "https://www.twi-global.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {"title": "Materials Engineer", "type": "full-time", "location": "Cambridge"},
+        {"title": "Welding Technician", "type": "full-time", "location": "Cambridge"}
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.twi-global.com/careers",
+      "careers_summary": "Research and technology organization with engineering and materials science focus."
+    },
+    {
+      "company_name": "Bruntwood SciTech",
+      "company_url": "https://bruntwoodscitech.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Limited public career information available."
+    },
+    {
+      "company_name": "bit.bio",
+      "company_url": "https://bit.bio",
+      "careers_url": "https://bit.bio/careers",
+      "has_careers_page": true,
+      "roles": [
+        {"title": "Bioprocess Engineer", "type": "full-time", "location": "Cambridge"},
+        {"title": "Computational Biologist", "type": "full-time", "location": "Cambridge"}
+      ],
+      "contact_email": null,
+      "apply_url": "https://bit.bio/careers",
+      "careers_summary": "Synthetic biology company focused on cell programming with active recruitment."
+    },
+    {
+      "company_name": "Nyobolt",
+      "company_url": "https://www.nyobolt.com",
+      "careers_url": "https://www.nyobolt.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {"title": "Battery Engineer", "type": "full-time", "location": "Cambridge"},
+        {"title": "Materials Scientist", "type": "full-time", "location": "Cambridge"}
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.nyobolt.com/careers",
+      "careers_summary": "Advanced battery technology company actively hiring for engineering roles."
+    },
+    {
+      "company_name": "Echion Technologies",
+      "company_url": "https://www.echiontech.com",
+      "careers_url": "https://www.echiontech.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {"title": "Battery Technology Engineer", "type": "full-time", "location": "Cambridge"}
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.echiontech.com/careers",
+      "careers_summary": "Battery technology specialist focused on fast charging solutions."
+    },
+    {
+      "company_name": "Gearset",
+      "company_url": "https://www.gearset.com",
+      "careers_url": "https://www.gearset.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {"title": "Senior Software Engineer", "type": "full-time", "location": "Cambridge"},
+        {"title": "Product Manager", "type": "full-time", "location": "Cambridge"}
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.gearset.com/careers",
+      "careers_summary": "Salesforce deployment automation SaaS platform with active hiring."
+    },
+    {
+      "company_name": "Riverlane",
+      "company_url": "https://www.riverlane.com",
+      "careers_url": "https://www.riverlane.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {"title": "Quantum Software Engineer", "type": "full-time", "location": "Cambridge"},
+        {"title": "Physicist", "type": "full-time", "location": "Cambridge"}
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.riverlane.com/careers",
+      "careers_summary": "Quantum computing software company actively recruiting researchers and engineers."
+    }
+  ],
+  "enriched": [
+    {
+      "company_name": "Supersense",
+      "url": "https://www.supersense.com",
+      "description": "Audio technology and spatial sound company. Limited public information available.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "audio, sound, spatial",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Quantios",
+      "url": "https://www.quantios.com",
+      "description": "Quantum technology company based in Cambridge. Limited public information available.",
+      "sector_tags": ["quantum computing"],
+      "stage": "unknown",
+      "tech_keywords": "quantum, computing",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Waymap",
+      "url": "https://www.waymap.com",
+      "description": "Accessibility mapping platform providing detailed walkability and accessibility data for urban navigation. Uses AI and crowd-sourced data to create comprehensive accessibility maps for people with disabilities.",
+      "sector_tags": ["AI/ML", "accessibility"],
+      "stage": "scaleup",
+      "tech_keywords": "accessibility, mapping, AI, navigation",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2018
+    },
+    {
+      "company_name": "Infersens Ltd",
+      "url": "https://www.infersens.com",
+      "description": "AI and machine learning company. Limited detailed information available.",
+      "sector_tags": ["AI/ML"],
+      "stage": "unknown",
+      "tech_keywords": "AI, machine learning",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "All Focal",
+      "url": "https://www.allfocal.com",
+      "description": "Technology company with limited publicly available information.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "unknown",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Cinema8",
+      "url": "https://www.cinema8.com",
+      "description": "Interactive video content platform. Limited public information available.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "video, interactive, content",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "iot747",
+      "url": "https://www.iot747.com",
+      "description": "IoT solutions provider. Limited public information available.",
+      "sector_tags": ["IoT"],
+      "stage": "unknown",
+      "tech_keywords": "IoT, connected devices",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Forefront",
+      "url": "https://www.forefront.com",
+      "description": "Technology company with limited publicly available information.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "unknown",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Phantom Technology Ltd",
+      "url": "https://www.phantomtechnology.com",
+      "description": "Technology firm. Limited public information available.",
+      "sector_tags": ["hardware"],
+      "stage": "unknown",
+      "tech_keywords": "unknown",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Cambridge Kinetics",
+      "url": "https://www.cambridgekinetics.com",
+      "description": "Biomechanics and motion analysis company. Limited public information available.",
+      "sector_tags": ["healthtech"],
+      "stage": "unknown",
+      "tech_keywords": "biomechanics, motion, analysis",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Pilot Creative Ltd",
+      "url": "https://www.pilotcreative.com",
+      "description": "Creative agency and software company. Limited public information available.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "creative, design",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "HDR Nova",
+      "url": "https://www.hdrnova.com",
+      "description": "Imaging technology company focused on HDR solutions. Limited public information available.",
+      "sector_tags": ["hardware"],
+      "stage": "unknown",
+      "tech_keywords": "imaging, HDR, video",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Tebira Ltd",
+      "url": "https://www.tebira.com",
+      "description": "Technology company. Limited public information available.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "unknown",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Virtual Arts",
+      "url": "https://www.virtualarts.com",
+      "description": "Virtual reality and immersive technology company. Limited public information available.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "VR, virtual reality, immersive",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "LispWorks",
+      "url": "https://www.lispworks.com",
+      "description": "Commercial Lisp and software development tools provider. Specializes in creating advanced development environments for building sophisticated applications.",
+      "sector_tags": ["developer tools"],
+      "stage": "established",
+      "tech_keywords": "Lisp, development tools, programming",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 1992
+    },
+    {
+      "company_name": "Green Custard Ltd",
+      "url": "https://www.greencustard.com",
+      "description": "Environmental or sustainability-focused company. Limited public information available.",
+      "sector_tags": ["cleantech"],
+      "stage": "unknown",
+      "tech_keywords": "sustainability, environment",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Ellexus",
+      "url": "https://www.ellexus.com",
+      "description": "Software tools company providing performance analysis and optimization tools for software developers. Focuses on memory and I/O profiling capabilities.",
+      "sector_tags": ["developer tools"],
+      "stage": "scaleup",
+      "tech_keywords": "developer tools, profiling, performance analysis",
+      "employee_est": "11-50",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2008
+    },
+    {
+      "company_name": "Commsonic Ltd",
+      "url": "https://www.commsonic.com",
+      "description": "Communications technology company. Limited public information available.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "communications, software",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Archipelago Technology",
+      "url": "https://www.archipelagotechnology.com",
+      "description": "Technology solutions company. Limited public information available.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "unknown",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "ACX Instruments Ltd",
+      "url": "https://www.acxinstruments.com",
+      "description": "Scientific instruments company. Limited public information available.",
+      "sector_tags": ["hardware"],
+      "stage": "unknown",
+      "tech_keywords": "instruments, scientific",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "VNC Automotive Ltd",
+      "url": "https://www.vncautomotive.com",
+      "description": "Automotive technology company focusing on in-vehicle networking and software solutions. Develops software for vehicle control and connectivity.",
+      "sector_tags": ["software", "IoT"],
+      "stage": "established",
+      "tech_keywords": "automotive, networking, vehicle software",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 1999
+    },
+    {
+      "company_name": "Glenworth Associates Ltd",
+      "url": "https://www.glenworthassociates.com",
+      "description": "Consulting or professional services company. Limited public information available.",
+      "sector_tags": ["consulting"],
+      "stage": "unknown",
+      "tech_keywords": "consulting",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Deyton Bell",
+      "url": "https://www.deytonbell.com",
+      "description": "Professional services or software company. Limited public information available.",
+      "sector_tags": ["consulting"],
+      "stage": "unknown",
+      "tech_keywords": "unknown",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Sookio",
+      "url": "https://www.sookio.com",
+      "description": "Digital marketing and e-commerce solutions company. Limited public information available.",
+      "sector_tags": ["SaaS"],
+      "stage": "unknown",
+      "tech_keywords": "marketing, e-commerce, digital",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Linaud Health",
+      "url": "https://www.linaudhealth.com",
+      "description": "Healthcare technology company. Limited public information available.",
+      "sector_tags": ["healthtech"],
+      "stage": "unknown",
+      "tech_keywords": "healthcare, health, medical",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Enterprise East",
+      "url": "https://www.enterpriseeast.com",
+      "description": "Business development or enterprise solutions company. Limited public information available.",
+      "sector_tags": ["software"],
+      "stage": "unknown",
+      "tech_keywords": "enterprise, business",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "Netmatters Ltd",
+      "url": "https://www.netmatters.com",
+      "description": "Full-service digital agency providing web design, development, and digital marketing services. Specializes in WordPress development and e-commerce solutions.",
+      "sector_tags": ["SaaS", "developer tools"],
+      "stage": "scaleup",
+      "tech_keywords": "web development, digital marketing, WordPress, e-commerce",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2008
+    },
+    {
+      "company_name": "Bensasson & Chalmers Ltd",
+      "url": "https://www.bensassonchalmers.com",
+      "description": "Professional services or consulting firm. Limited public information available.",
+      "sector_tags": ["consulting"],
+      "stage": "unknown",
+      "tech_keywords": "unknown",
+      "employee_est": "unknown",
+      "hiring_status": "no_info",
+      "founded_year": null
+    },
+    {
+      "company_name": "BioMed Realty",
+      "url": "https://www.biomedrealty.com",
+      "description": "Real estate and property company serving the biomedical and life sciences sectors. Provides laboratory and office space to research and biotech companies.",
+      "sector_tags": ["biotech"],
+      "stage": "established",
+      "tech_keywords": "real estate, biomedical, life sciences",
+      "employee_est": "200-1000",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2000
+    },
+    {
+      "company_name": "TWI",
+      "url": "https://www.twi-global.com",
+      "description": "Technology and research organization specializing in joining technology, materials, and inspection methods. Provides engineering solutions and materials science research for industrial applications.",
+      "sector_tags": ["research", "hardware"],
+      "stage": "established",
+      "tech_keywords": "materials science, welding, joining, inspection, manufacturing",
+      "employee_est": "200-1000",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1946
+    },
+    {
+      "company_name": "Bruntwood SciTech",
+      "url": "https://bruntwoodscitech.com",
+      "description": "Science and technology property company providing laboratory and office space for research institutions and biotech companies. Limited hiring information available.",
+      "sector_tags": ["biotech", "research"],
+      "stage": "established",
+      "tech_keywords": "biotech, real estate, science",
+      "employee_est": "200-1000",
+      "hiring_status": "possibly_hiring",
+      "founded_year": null
+    },
+    {
+      "company_name": "bit.bio",
+      "url": "https://bit.bio",
+      "description": "Synthetic biology company focused on cell programming and reprogramming technology. Creates programmable cells for regenerative medicine and therapeutics applications.",
+      "sector_tags": ["biotech", "drug discovery"],
+      "stage": "scaleup",
+      "tech_keywords": "synthetic biology, cell programming, regenerative medicine, therapeutics",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2013
+    },
+    {
+      "company_name": "Nyobolt",
+      "url": "https://www.nyobolt.com",
+      "description": "Advanced battery technology company developing fast-charging, long-cycle-life batteries using silicon-based anode materials. Focuses on electric vehicle and grid storage applications.",
+      "sector_tags": ["cleantech", "hardware"],
+      "stage": "scaleup",
+      "tech_keywords": "battery technology, energy storage, electric vehicles, materials science",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2019
+    },
+    {
+      "company_name": "Echion Technologies",
+      "url": "https://www.echiontech.com",
+      "description": "Battery technology company specializing in fast-charging solutions for electric vehicles and stationary storage. Uses composite anode materials for improved performance.",
+      "sector_tags": ["cleantech", "hardware"],
+      "stage": "scaleup",
+      "tech_keywords": "battery technology, fast charging, energy storage, electric vehicles",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "Gearset",
+      "url": "https://www.gearset.com",
+      "description": "Cloud-based software platform for Salesforce metadata deployment and release management. Enables development teams to safely and quickly deploy changes to Salesforce environments.",
+      "sector_tags": ["SaaS", "developer tools"],
+      "stage": "scaleup",
+      "tech_keywords": "Salesforce, deployment, DevOps, cloud, automation",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2011
+    },
+    {
+      "company_name": "Riverlane",
+      "url": "https://www.riverlane.com",
+      "description": "Quantum computing software company providing tools and algorithms for quantum error correction and quantum computing optimization. Develops software infrastructure for quantum computers.",
+      "sector_tags": ["quantum computing", "software"],
+      "stage": "scaleup",
+      "tech_keywords": "quantum computing, error correction, quantum software, algorithms",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2017
+    }
+  ]
+}

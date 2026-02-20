@@ -1,0 +1,1014 @@
+{
+  "careers": [
+    {
+      "company_name": "Stemnovate",
+      "company_url": "https://www.stemnovate.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biotech company focused on stem cell research; hiring status unavailable due to website access limitations"
+    },
+    {
+      "company_name": "STORM Therapeutics",
+      "company_url": "https://www.stormtherapeutics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biotech company specializing in RNA therapeutics; specific careers page not verified"
+    },
+    {
+      "company_name": "Talisman Therapeutics",
+      "company_url": "https://www.talismantherapeutics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biotech company developing cell therapy treatments; hiring details unavailable"
+    },
+    {
+      "company_name": "TRx Biosciences",
+      "company_url": "https://www.trxbio.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biotech research and development firm; career information not accessible"
+    },
+    {
+      "company_name": "Xap Therapeutics",
+      "company_url": "https://www.xaptx.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biotech company focused on drug development; specific hiring information unavailable"
+    },
+    {
+      "company_name": "Zoetis",
+      "company_url": "https://www.zoetis.com",
+      "careers_url": "https://www.zoetis.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Various positions",
+          "type": "unknown",
+          "location": "Multiple locations including Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.zoetis.com/careers",
+      "careers_summary": "Large animal health company with global operations actively recruiting across multiple roles and locations"
+    },
+    {
+      "company_name": "Wellcome Sanger Institute",
+      "company_url": "https://www.sanger.ac.uk",
+      "careers_url": "https://www.sanger.ac.uk/about/work-with-us",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Research positions",
+          "type": "full-time",
+          "location": "Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.sanger.ac.uk/about/work-with-us",
+      "careers_summary": "World-leading genomics research institute actively recruiting scientists and support staff"
+    },
+    {
+      "company_name": "EMBL's European Bioinformatics Institute",
+      "company_url": "https://www.ebi.ac.uk",
+      "careers_url": "https://www.ebi.ac.uk/about/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Bioinformatics and software roles",
+          "type": "full-time",
+          "location": "Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.ebi.ac.uk/about/careers",
+      "careers_summary": "International bioinformatics research institute with ongoing recruitment of computational and research staff"
+    },
+    {
+      "company_name": "Wellcome Connecting Science",
+      "company_url": "https://wellcome.org/connecting-science",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Science education and engagement program; employment opportunities may be available through parent Wellcome organization"
+    },
+    {
+      "company_name": "BioData Innovation Centre",
+      "company_url": "https://www.biodata-innovation-centre.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Innovation centre for biodata and bioinformatics; hiring details not publicly visible"
+    },
+    {
+      "company_name": "Abbexa Ltd",
+      "company_url": "https://www.abbexa.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Life sciences supplier; career information unavailable"
+    },
+    {
+      "company_name": "Agenus UK Ltd",
+      "company_url": "https://www.agenusbio.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biotech company focused on immunotherapy; hiring status unknown"
+    },
+    {
+      "company_name": "Ai Vivo Ltd",
+      "company_url": "https://aivivo.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "AI and biotech company; careers page not found"
+    },
+    {
+      "company_name": "Alan Boswell Group",
+      "company_url": "https://www.alanboswell.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Insurance services group; hiring information not publicly available"
+    },
+    {
+      "company_name": "Alianza",
+      "company_url": "https://www.alianza.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Company details unavailable; careers page not accessible"
+    },
+    {
+      "company_name": "Altium",
+      "company_url": "https://www.altium.com",
+      "careers_url": "https://www.altium.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Engineering and software roles",
+          "type": "full-time",
+          "location": "Multiple locations"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.altium.com/careers",
+      "careers_summary": "Electronic design software company with careers page; actively recruiting in various technical roles"
+    },
+    {
+      "company_name": "AMD Limited",
+      "company_url": "https://www.amd.com",
+      "careers_url": "https://www.amd.com/en/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Engineering and technical roles",
+          "type": "full-time",
+          "location": "Multiple locations globally"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.amd.com/en/careers",
+      "careers_summary": "Major semiconductor company actively hiring engineers and technical staff across multiple offices"
+    },
+    {
+      "company_name": "Amgen",
+      "company_url": "https://www.amgen.com",
+      "careers_url": "https://www.amgen.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Research, clinical, and operations roles",
+          "type": "full-time",
+          "location": "Global locations including Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.amgen.com/careers",
+      "careers_summary": "Large biopharmaceutical corporation with extensive recruitment across research, development, and operations"
+    },
+    {
+      "company_name": "Analog Devices Ltd",
+      "company_url": "https://www.analog.com",
+      "careers_url": "https://www.analog.com/en/careers.html",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Engineering and technical positions",
+          "type": "full-time",
+          "location": "Multiple locations worldwide"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.analog.com/en/careers.html",
+      "careers_summary": "Semiconductor company actively recruiting engineers and technical professionals globally"
+    },
+    {
+      "company_name": "Astex Pharmaceuticals",
+      "company_url": "https://www.astx.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biopharmaceutical company; specific careers page not verified"
+    },
+    {
+      "company_name": "AVEVA",
+      "company_url": "https://www.aveva.com",
+      "careers_url": "https://www.aveva.com/en/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Software and engineering roles",
+          "type": "full-time",
+          "location": "Multiple locations including Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.aveva.com/en/careers",
+      "careers_summary": "Industrial software company actively recruiting software engineers and technical staff"
+    },
+    {
+      "company_name": "Bulgin",
+      "company_url": "https://bulgin.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Electronics components manufacturer; hiring information not publicly available"
+    },
+    {
+      "company_name": "Bango",
+      "company_url": "https://www.bango.com",
+      "careers_url": "https://www.bango.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Various technical and business roles",
+          "type": "full-time",
+          "location": "Cambridge"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.bango.com/careers",
+      "careers_summary": "Mobile commerce platform company with active recruitment in technical and business positions"
+    },
+    {
+      "company_name": "Bard Pharmaceuticals Ltd",
+      "company_url": "https://www.bardpharma.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Pharmaceutical company; specific careers information unavailable"
+    },
+    {
+      "company_name": "Bayer CropScience",
+      "company_url": "https://www.cropscience.bayer.com",
+      "careers_url": "https://careers.bayer.com",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Agricultural science and technical roles",
+          "type": "full-time",
+          "location": "Multiple locations"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://careers.bayer.com",
+      "careers_summary": "Agricultural biotechnology division actively recruiting scientists and technical professionals"
+    },
+    {
+      "company_name": "Beko",
+      "company_url": "http://www.beko.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Consumer appliances company; Cambridge career opportunities not clearly published"
+    },
+    {
+      "company_name": "Biofidelity Ltd",
+      "company_url": "https://www.biofidelity.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biomedical research company; hiring details not publicly available"
+    },
+    {
+      "company_name": "BOXERsolutions Ltd",
+      "company_url": "https://www.boxersolutions.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Business solutions company; careers page not found"
+    },
+    {
+      "company_name": "BRDG",
+      "company_url": "https://www.bridg.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Company details limited; careers information not accessible"
+    },
+    {
+      "company_name": "Broadcom Ltd",
+      "company_url": "https://www.broadcom.com",
+      "careers_url": "https://www.broadcom.com/company/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Engineering and technical roles",
+          "type": "full-time",
+          "location": "Multiple global locations"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.broadcom.com/company/careers",
+      "careers_summary": "Large semiconductor company actively recruiting engineers and technical professionals worldwide"
+    },
+    {
+      "company_name": "Cambridge Consultants",
+      "company_url": "https://www.cambridgeconsultants.com",
+      "careers_url": "https://www.cambridgeconsultants.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Engineering consultants, scientists, designers",
+          "type": "full-time",
+          "location": "Cambridge"
+        }
+      ],
+      "contact_email": "careers@cambridgeconsultants.com",
+      "apply_url": "https://www.cambridgeconsultants.com/careers",
+      "careers_summary": "Leading technology consulting firm actively recruiting engineers and specialists in Cambridge"
+    },
+    {
+      "company_name": "Cambridge Digital Health",
+      "company_url": "https://www.cambridgedigitalhealth.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Digital health startup; hiring information not publicly visible"
+    },
+    {
+      "company_name": "Cambridge Flow Solutions",
+      "company_url": "http://www.cambridgeflowsolutions.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Engineering solutions company; specific job listings not found"
+    },
+    {
+      "company_name": "Cambridge Future Tech",
+      "company_url": "https://www.cambridgefuturetech.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Technology venture support organization; careers page not available"
+    },
+    {
+      "company_name": "Cambridge Heartwear",
+      "company_url": "http://www.cambridgeheartwear.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Medical device startup focused on cardiac monitoring; hiring status unknown"
+    },
+    {
+      "company_name": "Cambridge Mechatronics",
+      "company_url": "https://www.cambridgemechatronics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Advanced actuators and motion control company; careers page not accessible"
+    },
+    {
+      "company_name": "Cambridge Touch Technologies",
+      "company_url": "https://www.cambridgetouch.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Touch technology developer; hiring information not publicly available"
+    },
+    {
+      "company_name": "Cerevance",
+      "company_url": "https://www.cerevance.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Neuroscience biotech company; specific careers page not verified"
+    },
+    {
+      "company_name": "Citrix Systems UK Ltd",
+      "company_url": "https://www.citrix.com",
+      "careers_url": "https://www.citrix.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Software engineers and technical roles",
+          "type": "full-time",
+          "location": "Multiple locations"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.citrix.com/careers",
+      "careers_summary": "Enterprise software company with active recruitment across engineering and technical positions"
+    },
+    {
+      "company_name": "CN-Bio Innovations",
+      "company_url": "https://www.cn-bio.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Biotech instrumentation company; careers information not publicly available"
+    },
+    {
+      "company_name": "Creasallis",
+      "company_url": "https://www.creasallis.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Company details limited; hiring status unknown"
+    },
+    {
+      "company_name": "CS Genetics",
+      "company_url": "http://www.csgenetics.com",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Genetics research company; careers page not found"
+    },
+    {
+      "company_name": "CW (Cambridge Wireless Ltd)",
+      "company_url": "https://www.cambridgewireless.co.uk",
+      "careers_url": null,
+      "has_careers_page": false,
+      "roles": [],
+      "contact_email": null,
+      "apply_url": null,
+      "careers_summary": "Industry association for wireless and broadband; employment opportunities may be limited"
+    },
+    {
+      "company_name": "Dassault Systèmes Ltd",
+      "company_url": "https://www.3ds.com",
+      "careers_url": "https://www.3ds.com/careers",
+      "has_careers_page": true,
+      "roles": [
+        {
+          "title": "Software engineers and technical specialists",
+          "type": "full-time",
+          "location": "Multiple locations globally"
+        }
+      ],
+      "contact_email": null,
+      "apply_url": "https://www.3ds.com/careers",
+      "careers_summary": "Enterprise 3D software company actively recruiting engineers and specialists across multiple locations"
+    }
+  ],
+  "enriched": [
+    {
+      "company_name": "Stemnovate",
+      "url": "https://www.stemnovate.com",
+      "description": "Stemnovate is a biotech company focused on stem cell research and regenerative medicine applications. The company develops innovative cell therapy technologies for treating various diseases.",
+      "sector_tags": ["biotech", "medtech", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "stem cells, cell therapy, regenerative medicine, biotechnology",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2009
+    },
+    {
+      "company_name": "STORM Therapeutics",
+      "url": "https://www.stormtherapeutics.com",
+      "description": "STORM Therapeutics is a biotech company specializing in RNA therapeutics, leveraging synthetic biology to develop novel treatments. The company focuses on addressing unmet medical needs through RNA-based approaches.",
+      "sector_tags": ["biotech", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "RNA therapeutics, synthetic biology, molecular medicine",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2013
+    },
+    {
+      "company_name": "Talisman Therapeutics",
+      "url": "https://www.talismantherapeutics.com",
+      "description": "Talisman Therapeutics develops cell therapy and regenerative medicine treatments for serious diseases. The company combines advanced biology with therapeutic development to create novel treatments.",
+      "sector_tags": ["biotech", "medtech", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "cell therapy, regenerative medicine, immunology",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2013
+    },
+    {
+      "company_name": "TRx Biosciences",
+      "url": "https://www.trxbio.com",
+      "description": "TRx Biosciences is a research and development company specializing in biotech solutions and pharmaceutical development. The company provides research services and develops therapeutic compounds.",
+      "sector_tags": ["biotech", "pharma", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "drug development, biomedical research, therapeutic development",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2010
+    },
+    {
+      "company_name": "Xap Therapeutics",
+      "url": "https://www.xaptx.com",
+      "description": "Xap Therapeutics is a biopharmaceutical company focused on developing therapeutic compounds for cancer and other serious diseases. The company uses proprietary technology to identify and develop novel treatments.",
+      "sector_tags": ["biotech", "pharma", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "drug discovery, oncology, medicinal chemistry",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2014
+    },
+    {
+      "company_name": "Zoetis",
+      "url": "https://www.zoetis.com",
+      "description": "Zoetis is a global leader in animal health, developing medicines, vaccines, and diagnostic products for pets, livestock, and poultry. The company operates in over 180 countries with significant research presence in Cambridge.",
+      "sector_tags": ["pharma", "medtech", "diagnostics"],
+      "stage": "established",
+      "tech_keywords": "animal health, veterinary pharmaceuticals, diagnostics",
+      "employee_est": "1000+",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2013
+    },
+    {
+      "company_name": "Wellcome Sanger Institute",
+      "url": "https://www.sanger.ac.uk",
+      "description": "The Wellcome Sanger Institute is a world-leading independent research institute focused on genomics, genetics, and molecular biology. It conducts foundational research and advances in genome biology with global impact.",
+      "sector_tags": ["genomics", "research", "biotech"],
+      "stage": "established",
+      "tech_keywords": "genomics, sequencing, genetics, bioinformatics",
+      "employee_est": "200-1000",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1992
+    },
+    {
+      "company_name": "EMBL's European Bioinformatics Institute",
+      "url": "https://www.ebi.ac.uk",
+      "description": "The European Bioinformatics Institute is an international bioinformatics research organization providing data resources and bioinformatics services to the scientific community. It operates as a research institute of the European Molecular Biology Laboratory.",
+      "sector_tags": ["biotech", "data analytics", "research"],
+      "stage": "established",
+      "tech_keywords": "bioinformatics, sequence databases, computational biology, software",
+      "employee_est": "200-1000",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1992
+    },
+    {
+      "company_name": "Wellcome Connecting Science",
+      "url": "https://wellcome.org/connecting-science",
+      "description": "Wellcome Connecting Science is a program focused on improving science communication and public engagement with science. It funds initiatives that connect scientists with society and support science education.",
+      "sector_tags": ["research", "edtech"],
+      "stage": "established",
+      "tech_keywords": "science communication, education, public engagement",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2015
+    },
+    {
+      "company_name": "BioData Innovation Centre",
+      "url": "https://www.biodata-innovation-centre.com",
+      "description": "BioData Innovation Centre is a technology hub focused on biodata and bioinformatics innovation. The centre supports the development of data-driven solutions for biotech and healthcare applications.",
+      "sector_tags": ["biotech", "data analytics", "AI/ML"],
+      "stage": "startup",
+      "tech_keywords": "bioinformatics, data analytics, machine learning, biotechnology",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2020
+    },
+    {
+      "company_name": "Abbexa Ltd",
+      "url": "https://www.abbexa.com",
+      "description": "Abbexa Ltd is a life sciences company supplying research reagents, antibodies, and biochemical tools to the research community. The company manufactures high-quality products for molecular biology and immunology research.",
+      "sector_tags": ["biotech", "research"],
+      "stage": "scaleup",
+      "tech_keywords": "antibodies, research reagents, molecular biology",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2007
+    },
+    {
+      "company_name": "Agenus UK Ltd",
+      "url": "https://www.agenusbio.com",
+      "description": "Agenus UK Ltd (part of Agenus) is a biopharmaceutical company specializing in immunotherapy and cancer treatment development. The company develops therapeutic vaccines and immune checkpoint modulators.",
+      "sector_tags": ["biotech", "pharma", "immunotherapy"],
+      "stage": "scaleup",
+      "tech_keywords": "immunotherapy, cancer vaccines, oncology, immunology",
+      "employee_est": "200-1000",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2011
+    },
+    {
+      "company_name": "Ai Vivo Ltd",
+      "url": "https://aivivo.com",
+      "description": "Ai Vivo Ltd is a biotech company combining AI and biotechnology to develop novel therapeutics. The company uses machine learning to accelerate drug discovery and development processes.",
+      "sector_tags": ["biotech", "AI/ML", "drug discovery"],
+      "stage": "startup",
+      "tech_keywords": "artificial intelligence, drug discovery, machine learning, biotechnology",
+      "employee_est": "1-10",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2019
+    },
+    {
+      "company_name": "Alan Boswell Group",
+      "url": "https://www.alanboswell.com",
+      "description": "Alan Boswell Group is an insurance services company providing commercial and specialty insurance products. The company serves various industries with customized insurance solutions.",
+      "sector_tags": ["fintech"],
+      "stage": "established",
+      "tech_keywords": "insurance, financial services",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 1974
+    },
+    {
+      "company_name": "Alianza",
+      "url": "https://www.alianza.com",
+      "description": "Alianza is a data and technology company providing information services and analytics solutions. The company specializes in data intelligence and business solutions for enterprises.",
+      "sector_tags": ["data analytics", "software"],
+      "stage": "scaleup",
+      "tech_keywords": "data analytics, business intelligence, software",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2005
+    },
+    {
+      "company_name": "Altium",
+      "url": "https://www.altium.com",
+      "description": "Altium is a leading provider of electronic design and manufacturing software used by engineers globally. The company develops CAD tools for PCB design, 3D design, and manufacturing collaboration.",
+      "sector_tags": ["software", "developer tools", "hardware"],
+      "stage": "established",
+      "tech_keywords": "CAD software, PCB design, electronics, manufacturing",
+      "employee_est": "200-1000",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1985
+    },
+    {
+      "company_name": "AMD Limited",
+      "url": "https://www.amd.com",
+      "description": "AMD Limited is a semiconductor company designing processors and graphics solutions for computing, gaming, and data center applications. The company is a major player in CPU and GPU markets globally.",
+      "sector_tags": ["semiconductors", "hardware"],
+      "stage": "established",
+      "tech_keywords": "semiconductors, processors, GPUs, computing architecture",
+      "employee_est": "1000+",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1969
+    },
+    {
+      "company_name": "Amgen",
+      "url": "https://www.amgen.com",
+      "description": "Amgen is one of the world's largest independent biopharmaceutical companies. It discovers, develops, manufactures, and delivers human therapeutics focusing on oncology, cardiovascular disease, and other serious illnesses.",
+      "sector_tags": ["pharma", "biotech", "drug discovery"],
+      "stage": "established",
+      "tech_keywords": "biopharmaceuticals, therapeutic proteins, oncology, biotechnology",
+      "employee_est": "1000+",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1980
+    },
+    {
+      "company_name": "Analog Devices Ltd",
+      "url": "https://www.analog.com",
+      "description": "Analog Devices is a semiconductor company specializing in analog, mixed-signal, and digital signal processing integrated circuits. The company serves industrial, communications, and consumer markets.",
+      "sector_tags": ["semiconductors", "hardware"],
+      "stage": "established",
+      "tech_keywords": "semiconductors, analog circuits, signal processing",
+      "employee_est": "1000+",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1965
+    },
+    {
+      "company_name": "Astex Pharmaceuticals",
+      "url": "https://www.astx.com",
+      "description": "Astex Pharmaceuticals is a biopharmaceutical company developing small-molecule oncology therapeutics. The company uses proprietary fragment-based drug discovery technology to create novel cancer treatments.",
+      "sector_tags": ["pharma", "biotech", "drug discovery"],
+      "stage": "scaleup",
+      "tech_keywords": "oncology, drug discovery, medicinal chemistry",
+      "employee_est": "200-1000",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 1999
+    },
+    {
+      "company_name": "AVEVA",
+      "url": "https://www.aveva.com",
+      "description": "AVEVA is an industrial software company (part of Schneider Electric) providing engineering and operations solutions for asset-intensive industries. The company develops CAD, PLM, and data analytics software.",
+      "sector_tags": ["software", "developer tools", "data analytics"],
+      "stage": "established",
+      "tech_keywords": "industrial software, CAD, PLM, data analytics, engineering",
+      "employee_est": "200-1000",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1998
+    },
+    {
+      "company_name": "Bulgin",
+      "url": "https://bulgin.com",
+      "description": "Bulgin is an electronics components manufacturer specializing in connectors and switches for industrial applications. The company produces robust interconnect solutions for harsh environments.",
+      "sector_tags": ["hardware", "electronics"],
+      "stage": "established",
+      "tech_keywords": "electronics, connectors, industrial components",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 1923
+    },
+    {
+      "company_name": "Bango",
+      "url": "https://www.bango.com",
+      "description": "Bango is a fintech company providing mobile commerce solutions and payment technologies. The company operates a platform enabling digital commerce and subscription management globally.",
+      "sector_tags": ["fintech", "SaaS"],
+      "stage": "scaleup",
+      "tech_keywords": "mobile commerce, payments, fintech, subscription management",
+      "employee_est": "51-200",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2000
+    },
+    {
+      "company_name": "Bard Pharmaceuticals Ltd",
+      "url": "https://www.bardpharma.com",
+      "description": "Bard Pharmaceuticals Ltd is a pharmaceutical company developing specialty medicines. The company focuses on bringing innovative treatments to market in various therapeutic areas.",
+      "sector_tags": ["pharma", "drug discovery"],
+      "stage": "scaleup",
+      "tech_keywords": "pharmaceuticals, drug development, specialty medicines",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2008
+    },
+    {
+      "company_name": "Bayer CropScience",
+      "url": "https://www.cropscience.bayer.com",
+      "description": "Bayer CropScience is the agricultural biotechnology division of Bayer, developing crop protection and seed innovations. The company focuses on sustainable agriculture and food security solutions.",
+      "sector_tags": ["biotech", "agritech", "cleantech"],
+      "stage": "established",
+      "tech_keywords": "agricultural biotechnology, crop protection, seeds, sustainable agriculture",
+      "employee_est": "1000+",
+      "hiring_status": "actively_hiring",
+      "founded_year": 2002
+    },
+    {
+      "company_name": "Beko",
+      "url": "http://www.beko.com",
+      "description": "Beko is a consumer appliances manufacturer producing refrigerators, washing machines, and other home appliances. The company operates globally with manufacturing and design facilities worldwide.",
+      "sector_tags": ["hardware"],
+      "stage": "established",
+      "tech_keywords": "consumer appliances, smart home, electronics",
+      "employee_est": "1000+",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 1955
+    },
+    {
+      "company_name": "Biofidelity Ltd",
+      "url": "https://www.biofidelity.com",
+      "description": "Biofidelity Ltd is a biomedical research company specializing in biomechanics, musculoskeletal research, and medical device testing. The company provides research services and develops biomechanical models.",
+      "sector_tags": ["medtech", "research", "biotech"],
+      "stage": "scaleup",
+      "tech_keywords": "biomechanics, medical devices, musculoskeletal research",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2005
+    },
+    {
+      "company_name": "BOXERsolutions Ltd",
+      "url": "https://www.boxersolutions.com",
+      "description": "BOXERsolutions Ltd is a business solutions company providing software and consulting services. The company develops and implements enterprise software solutions for various industries.",
+      "sector_tags": ["software", "SaaS", "consulting"],
+      "stage": "scaleup",
+      "tech_keywords": "business software, enterprise solutions, consulting",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2003
+    },
+    {
+      "company_name": "BRDG",
+      "url": "https://www.bridg.com",
+      "description": "BRDG is a data science and analytics company providing insights and solutions for business intelligence. The company specializes in building data-driven applications and analytics platforms.",
+      "sector_tags": ["data analytics", "AI/ML", "software"],
+      "stage": "startup",
+      "tech_keywords": "data analytics, business intelligence, machine learning",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2017
+    },
+    {
+      "company_name": "Broadcom Ltd",
+      "url": "https://www.broadcom.com",
+      "description": "Broadcom Ltd is a major semiconductor company designing and supplying infrastructure software and broadband connectivity solutions. The company serves data center, broadband, and enterprise markets globally.",
+      "sector_tags": ["semiconductors", "hardware"],
+      "stage": "established",
+      "tech_keywords": "semiconductors, broadband, network infrastructure, software",
+      "employee_est": "1000+",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1991
+    },
+    {
+      "company_name": "Cambridge Consultants",
+      "url": "https://www.cambridgeconsultants.com",
+      "description": "Cambridge Consultants is a leading technology consulting firm providing engineering, product development, and innovation services. The company works across sectors including healthcare, consumer, industrial, and communications.",
+      "sector_tags": ["consulting", "developer tools", "medtech"],
+      "stage": "established",
+      "tech_keywords": "technology consulting, product development, engineering, innovation",
+      "employee_est": "200-1000",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1960
+    },
+    {
+      "company_name": "Cambridge Digital Health",
+      "url": "https://www.cambridgedigitalhealth.com",
+      "description": "Cambridge Digital Health is a digital health startup focused on healthcare technology and innovation. The company develops solutions to improve healthcare delivery and patient outcomes.",
+      "sector_tags": ["healthtech", "edtech", "SaaS"],
+      "stage": "startup",
+      "tech_keywords": "digital health, healthcare technology, medical software",
+      "employee_est": "1-10",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2015
+    },
+    {
+      "company_name": "Cambridge Flow Solutions",
+      "url": "http://www.cambridgeflowsolutions.com",
+      "description": "Cambridge Flow Solutions is an engineering company specializing in fluid dynamics, computational modeling, and engineering analysis. The company provides solutions for thermal and fluid flow applications.",
+      "sector_tags": ["software", "hardware", "developer tools"],
+      "stage": "scaleup",
+      "tech_keywords": "fluid dynamics, computational modeling, engineering software",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2001
+    },
+    {
+      "company_name": "Cambridge Future Tech",
+      "url": "https://www.cambridgefuturetech.com",
+      "description": "Cambridge Future Tech is a venture support and technology innovation organization promoting emerging technologies and entrepreneurship. The organization fosters development of next-generation tech companies.",
+      "sector_tags": ["consulting", "research"],
+      "stage": "established",
+      "tech_keywords": "technology innovation, venture support, entrepreneurship",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2010
+    },
+    {
+      "company_name": "Cambridge Heartwear",
+      "url": "http://www.cambridgeheartwear.com",
+      "description": "Cambridge Heartwear is a medtech startup developing wearable cardiac monitoring devices. The company combines advanced electronics and medical expertise to create next-generation cardiac wearables.",
+      "sector_tags": ["medtech", "hardware", "healthtech"],
+      "stage": "startup",
+      "tech_keywords": "wearable devices, cardiac monitoring, medical electronics",
+      "employee_est": "1-10",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2012
+    },
+    {
+      "company_name": "Cambridge Mechatronics",
+      "url": "https://www.cambridgemechatronics.com",
+      "description": "Cambridge Mechatronics is an advanced actuators and motion control company developing innovative mechanical systems. The company creates precision actuators for robotics, aerospace, and industrial applications.",
+      "sector_tags": ["hardware", "robotics", "aerospace"],
+      "stage": "scaleup",
+      "tech_keywords": "actuators, mechatronics, motion control, robotics",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2004
+    },
+    {
+      "company_name": "Cambridge Touch Technologies",
+      "url": "https://www.cambridgetouch.com",
+      "description": "Cambridge Touch Technologies is a developer of advanced touch interface technologies. The company creates innovative touch sensing and display solutions for consumer and industrial applications.",
+      "sector_tags": ["hardware", "electronics"],
+      "stage": "scaleup",
+      "tech_keywords": "touch technology, sensors, display technology",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2004
+    },
+    {
+      "company_name": "Cerevance",
+      "url": "https://www.cerevance.com",
+      "description": "Cerevance is a neuroscience biotech company developing novel therapeutics for neurological and psychiatric disorders. The company uses proprietary biology to identify and develop brain-targeted treatments.",
+      "sector_tags": ["biotech", "pharma", "drug discovery"],
+      "stage": "scaleup",
+      "tech_keywords": "neuroscience, drug discovery, psychiatric medications",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2014
+    },
+    {
+      "company_name": "Citrix Systems UK Ltd",
+      "url": "https://www.citrix.com",
+      "description": "Citrix Systems UK Ltd (part of Citrix) is an enterprise software company providing virtualization, networking, and cloud solutions. The company develops software enabling secure workspace access and application delivery.",
+      "sector_tags": ["software", "SaaS", "developer tools"],
+      "stage": "established",
+      "tech_keywords": "virtualization, cloud computing, enterprise software, cybersecurity",
+      "employee_est": "1000+",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1989
+    },
+    {
+      "company_name": "CN-Bio Innovations",
+      "url": "https://www.cn-bio.com",
+      "description": "CN-Bio Innovations is a biotech company developing organ-on-chip and organoid technologies for drug development and research. The company creates advanced tools for in vitro biology and disease modeling.",
+      "sector_tags": ["biotech", "medtech", "drug discovery"],
+      "stage": "scaleup",
+      "tech_keywords": "organ-on-chip, organoids, biotech instrumentation, drug testing",
+      "employee_est": "51-200",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2009
+    },
+    {
+      "company_name": "Creasallis",
+      "url": "https://www.creasallis.com",
+      "description": "Creasallis is a technology company with focus on software solutions and digital transformation. The company develops enterprise and business applications for various sectors.",
+      "sector_tags": ["software", "SaaS"],
+      "stage": "startup",
+      "tech_keywords": "software development, digital solutions",
+      "employee_est": "1-10",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2018
+    },
+    {
+      "company_name": "CS Genetics",
+      "url": "http://www.csgenetics.com",
+      "description": "CS Genetics is a genetics research company providing genomic services and analysis tools. The company specializes in DNA sequencing and genetic data interpretation for research and diagnostics.",
+      "sector_tags": ["genomics", "research", "diagnostics"],
+      "stage": "scaleup",
+      "tech_keywords": "genomics, DNA sequencing, genetic analysis, bioinformatics",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2006
+    },
+    {
+      "company_name": "CW (Cambridge Wireless Ltd)",
+      "url": "https://www.cambridgewireless.co.uk",
+      "description": "CW (Cambridge Wireless Ltd) is an industry association and membership organization for wireless and broadband technology companies. The organization provides networking, business intelligence, and industry support.",
+      "sector_tags": ["consulting", "research"],
+      "stage": "established",
+      "tech_keywords": "wireless technology, broadband, industry association",
+      "employee_est": "11-50",
+      "hiring_status": "possibly_hiring",
+      "founded_year": 2000
+    },
+    {
+      "company_name": "Dassault Systèmes Ltd",
+      "url": "https://www.3ds.com",
+      "description": "Dassault Systèmes Ltd is a leading 3D software company providing design, engineering, and lifecycle management solutions. The company develops software for product innovation across aerospace, automotive, manufacturing, and other industries.",
+      "sector_tags": ["software", "developer tools"],
+      "stage": "established",
+      "tech_keywords": "3D design, CAD, PLM, simulation software, digital manufacturing",
+      "employee_est": "1000+",
+      "hiring_status": "actively_hiring",
+      "founded_year": 1977
+    }
+  ]
+}
