@@ -104,9 +104,17 @@ for _, r in df.iterrows():
         # (only False when we have a real geocode from geocodes_a/b.json)
         loc_approx = not is_real
 
+    # Companies House profile URL — generated from company_number when available
+    co_num = str(r.get('company_number','') or '').strip().replace('.0','')
+    ch_profile_url = (
+        f'https://find-and-update.company-information.service.gov.uk/company/{co_num}'
+        if co_num and co_num.lower() not in ('nan','')
+        else ''
+    )
+
     rec = dict(
         name       = r['company_name'],
-        url        = str(r['url']) if pd.notna(r.get('url')) else '',
+        url        = str(r['url']) if pd.notna(r.get('url')) and str(r.get('url')) not in ('nan','') else '',
         source     = r.get('source',''),
         hub        = str(r['hub_name']) if pd.notna(r.get('hub_name')) else '',
         desc       = r['description'][:280] if r['description'] else '',
@@ -116,6 +124,7 @@ for _, r in df.iterrows():
         employees  = r['employee_est'].replace('unknown','?'),
         hiring     = r['hiring_status'],
         ch         = bool(r['ch_validated']),
+        ch_url     = ch_profile_url,
         postcode   = str(r['postcode']) if pd.notna(r.get('postcode')) else '',
         sic        = str(r['sic_code']) if pd.notna(r.get('sic_code')) else '',
         founded    = int(r['founded_year']) if pd.notna(r.get('founded_year')) else None,
@@ -191,6 +200,10 @@ for c in companies:
     jobs_lnk  = f'<a href="{c["careers_url"]}" target="_blank" class="btn btn-xs btn-outline-success">Jobs↗</a>' if c['careers_url'] else ''
     src_lbl   = 'Hub' if c['source']=='hub' else 'CH'
     src_cls   = 'primary' if c['source']=='hub' else 'secondary'
+    # Companies House profile link — shown as small CH badge/link if available
+    ch_lnk    = (f'<a href="{c["ch_url"]}" target="_blank" title="Companies House profile" '
+                 f'class="text-muted small">CH↗</a>'
+                 if c.get('ch_url') else '')
     rows_html.append(
         f'<tr data-tags="{c["tags_str"]}" data-stage="{c["stage"]}" '
         f'data-hiring="{c["hiring"]}" data-source="{c["source"]}">'
@@ -201,7 +214,7 @@ for c in companies:
         f'<td class="text-center small">{c["employees"]}</td>'
         f'<td class="text-center"><span class="badge bg-{hire_cls}">{hire_lbl}</span></td>'
         f'<td class="text-center">{jobs_lnk}</td>'
-        f'<td class="text-center">{"✓" if c["ch"] else ""}</td>'
+        f'<td class="text-center">{ch_lnk}</td>'
         f'<td class="text-center"><span class="badge bg-{src_cls} opacity-75">{src_lbl}</span></td>'
         f'</tr>'
     )

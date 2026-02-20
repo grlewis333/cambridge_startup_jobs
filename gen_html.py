@@ -332,7 +332,7 @@ body {{ background:#f0f2f7; font-family:-apple-system,BlinkMacSystemFont,"Segoe 
             <th class="text-center">Size</th>
             <th class="text-center">Hiring</th>
             <th class="text-center">Jobs</th>
-            <th class="text-center">CH✓</th>
+            <th class="text-center" title="Companies House filing profile">CH</th>
             <th class="text-center">Src</th>
           </tr>
         </thead>
